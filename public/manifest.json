@@ -1,5 +1,5 @@
 {
-  "name": "MCQ Exam System",
+  "name": "50 MCQ Exam System",
   "short_name": "MCQ Exam",
   "description": "Online MCQ Examination System",
   "start_url": "/",
@@ -14,5 +14,3 @@
     }
   ]
 }
-
-
