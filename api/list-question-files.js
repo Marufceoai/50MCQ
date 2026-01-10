@@ -75,39 +75,42 @@ export default async function handler(req, res) {
             let displayName = fileName
 
             // Generate display name
-            if (fileName === 'questions.json') {
-                displayName = 'Default Question Set'
-            } else {
-                // Remove .json extension
-                const nameWithoutExt = fileName.replace('.json', '')
+            // Remove .json extension
+            const nameWithoutExt = fileName.replace('.json', '')
 
-                // Check for patterns
-                if (/^questions-\d+/.test(nameWithoutExt)) {
-                    // questions-4.json -> Question Set 4
-                    const match = nameWithoutExt.match(/^questions-(\d+)/)
-                    displayName = `Question Set ${match[1]}`
-                } else if (/^questions-/.test(nameWithoutExt)) {
-                    // questions-Answer.json -> Answer Question Set
-                    const version = nameWithoutExt.replace('questions-', '')
-                    displayName = version.charAt(0).toUpperCase() + version.slice(1) + ' Question Set'
-                } else if (/^chemistry/i.test(nameWithoutExt)) {
-                    // Chemistry2.json -> Chemistry 2
-                    const match = nameWithoutExt.match(/^chemistry(\d+)?/i)
-                    if (match && match[1]) {
-                        displayName = `Chemistry ${match[1]}`
-                    } else {
-                        displayName = 'Chemistry'
-                    }
-                } else {
-                    // Fallback: capitalize each word and replace dashes/underscores with spaces
-                    // e.g. Chemi1 -> Chemi 1
-                    displayName = nameWithoutExt
-                        // Insert space before numbers if they follow a letter
-                        .replace(/([a-zA-Z])(\d)/g, '$1 $2')
-                        .split(/[-_]/)
-                        .map(word => word.charAt(0).toUpperCase() + word.slice(1))
-                        .join(' ')
-                }
+            // Check for patterns
+            if (/^questions-\d+/.test(nameWithoutExt)) {
+                // questions-4.json -> Question Set 4
+                const match = nameWithoutExt.match(/^questions-(\d+)/)
+                displayName = `Question Set ${match[1]}`
+            } else if (/^questions-/.test(nameWithoutExt)) {
+                // questions-Answer.json -> Answer Question Set
+                const version = nameWithoutExt.replace('questions-', '')
+                displayName = version.charAt(0).toUpperCase() + version.slice(1) + ' Question Set'
+            } else {
+                // Generic formatter for all other files (Chemistry, Physics, etc.)
+                // This handles "Chemistry 2023-2024", "Biology 1", "Physics-Final" etc.
+                displayName = nameWithoutExt
+                    // Insert space before numbers if they follow a letter (Biology1 -> Biology 1)
+                    .replace(/([a-zA-Z])(\d)/g, '$1 $2')
+                    // Replace dashes/underscores with spaces unless it looks like a year range
+                    .replace(/[-_]/g, (match, offset, string) => {
+                        // Check if it's a year range like 2023-2024
+                        if (match === '-' && /\d{4}-\d{4}/.test(string.slice(offset - 4, offset + 5))) {
+                            return '-'
+                        }
+                        return ' '
+                    })
+                    // Split by space to capitalize words
+                    .split(' ')
+                    .filter(Boolean) // Remove empty strings
+                    .map(word => {
+                        // Keep year ranges as is (2023-2024)
+                        if (/\d{4}-\d{4}/.test(word)) return word
+                        // Capitalize other words
+                        return word.charAt(0).toUpperCase() + word.slice(1)
+                    })
+                    .join(' ')
             }
 
             return {
