@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "০১. $$3d$$ অরবিটালের জন্য $$n$$ ও $$l$$ এর মান কত?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$n=3, l=0$$",
+      "b": "$$n=3, l=1$$",
+      "c": "$$n=3, l=2$$",
+      "d": "$$n=4, l=2$$"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n প্রধান কোয়ান্টাম সংখ্যা $$n=3$$ যা তৃতীয় শক্তিস্তর নির্দেশ করে। সহকারী কোয়ান্টাম সংখ্যা $$l$$ এর মান অরবিটাল নির্দেশ করে ($$s=0, p=1, d=2, f=3$$)। তাই $$3d$$ অরবিটালের জন্য $$n=3$$ এবং $$l=2$$।"
+  },
+  {
+    "id": 2,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "০২. নিচের কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$HCl$$",
+      "b": "$$H_2SO_4$$",
+      "c": "$$Na_2CO_3$$",
+      "d": "$$KMnO_4$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "প্রাইমারি স্ট্যান্ডার্ড পদার্থ প্রকৃতিতে বিশুদ্ধ অবস্থায় পাওয়া যায় এবং বায়ুর উপাদানের সাথে বিক্রিয়া করে না। অনার্দ্র সোডিয়াম কার্বনেট ($$Na_2CO_3$$) এর একটি আদর্শ উদাহরণ।"
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "০৩. রক্তের pH নিয়ন্ত্রণ করে কোন বাফারটি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "অ্যাসিটেট বাফার",
+      "b": "ফসফেট বাফার",
+      "c": "বাই-কার্বনেট বাফার",
+      "d": "প্রোটিন বাফার"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n মানুষের রক্তের pH ৭.৩৫-৭.৪৫ এর মধ্যে রাখতে প্রধান ভূমিকা পালন করে বাই-কার্বনেট বাফার ($$H_2CO_3 / HCO_3^-$$) সিস্টেম।"
+  },
+  {
+    "id": 4,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০৪. $$CH_3-CH=CH-CHO$$ যৌগটির আইইউপিএসি (IUPAC) নাম কী?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "বিউট-২-ইন-১-অ্যাল",
+      "b": "২-বিউটিনল",
+      "c": "বিউট-১-ইন-৩-অ্যাল",
+      "d": "ক্রোটনালডিহাইড"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n কার্বন গণনা শুরু হবে $$-CHO$$ মূলক থেকে। ৪টি কার্বন থাকায় 'বিউট', ২ নং কার্বনে দ্বিবন্ধন থাকায় '২-ইন' এবং ১ নং এ অ্যালডিহাইড থাকায় '১-অ্যাল'। তাই নাম: বিউট-২-ইন-১-অ্যাল।"
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "০৫. $$0.005 M H_2SO_4$$ দ্রবণের pH কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "১.৫",
+      "b": "২.০",
+      "c": "৩.০",
+      "d": "২.৫"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$H_2SO_4$$ থেকে ২টি $$H^+$$ পাওয়া যায়। $[H^+] = 2 \\times 0.005 = 0.01 M = 10^{-2} M$। সূত্রমতে, $$pH = -\\log(10^{-2}) = 2$$।"
+  },
+  {
+    "id": 6,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "০৬. নিচের কোনটি লুইস এসিড?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$NH_3$$",
+      "b": "$$H_2O$$",
+      "c": "$$AlCl_3$$",
+      "d": "$$Cl^-$$"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n লুইস এসিড হলো যারা ইলেকট্রন জোড় গ্রহণ করতে পারে। $$AlCl_3$$ তে অ্যালুমিনিয়ামের অষ্টক অপূর্ণ থাকায় এটি ইলেকট্রন গ্রহীতা হিসেবে কাজ করে।"
+  },
+  {
+    "id": 7,
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "০৭. $$CaF_2$$ এর দ্রাব্যতা $$s$$ হলে, এর দ্রাব্যতা গুণফল ($$K_{sp}$$) কত হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$4s^3$$",
+      "b": "$$27s^4$$",
+      "c": "$$s^2$$",
+      "d": "$$108s^5$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$CaF_2 \\rightleftharpoons Ca^{2+} + 2F^-$$। এখানে $$K_{sp} = [s] \\times [2s]^2 = s \\times 4s^2 = 4s^3$$।"
+  },
+  {
+    "id": 8,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০৮. নিচের কোন যৌগটি কেন্দ্রাকর্ষী যুত বিক্রিয়া (Nucleophilic Addition) দেয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "বেনজিন",
+      "b": "ইথিন",
+      "c": "প্রোপানোন",
+      "d": "ইথাইল ক্লোরাইড"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n কার্বনিল মূলক ($$>C=O$$) যুক্ত যৌগ যেমন অ্যালডিহাইড ও কিটোন (প্রোপানোন) কেন্দ্রাকর্ষী যুত বিক্রিয়া দেয়।"
+  },
+  {
+    "id": 9,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "০৯. প্রমাণ অবস্থায় (STP) ২২.৪ লিটার অক্সিজেনের ভর কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "১৬ গ্রাম",
+      "b": "৩২ গ্রাম",
+      "c": "৮ গ্রাম",
+      "d": "৬৪ গ্রাম"
+    },
+    "correctAnswer": "b",
+    "explanation": "STP-তে ১ মোল গ্যাসের আয়তন ২২.৪ লিটার। অক্সিজেনের ($$O_2$$) আণবিক ভর ৩২ গ্রাম। সুতরাং ২২.৪ লিটার অক্সিজেনের ভর ৩২ গ্রাম।"
+  },
+  {
+    "id": 10,
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "১০. কোনটির আয়নীকরণ শক্তি সবচেয়ে বেশি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$N$$",
+      "b": "$$O$$",
+      "c": "$$C$$",
+      "d": "$$F$$"
+    },
+    "correctAnswer": "d",
+    "explanation": " \n পর্যায় সারণিতে বাম থেকে ডানে গেলে আয়নীকরণ শক্তি বৃদ্ধি পায়। ফ্লোরিন ($$F$$) সবার ডানে অবস্থিত হওয়ায় এর আয়নীকরণ শক্তি সর্বোচ্চ।"
+  },
+  {
+    "id": 11,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১১. বেনজিন বলয়ে সক্রিয়কারী মূলক কোনটি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$-NO_2$$",
+      "b": "$$-CHO$$",
+      "c": "$$-OH$$",
+      "d": "$$-COOH$$"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n $$-OH$$ মূলক বেনজিন বলয়ে ইলেকট্রন ঘনত্ব বৃদ্ধি করে বলয়কে সক্রিয় করে। বাকিগুলো নিষ্ক্রিয়কারী মূলক।"
+  },
+  {
+    "id": 12,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "১২. নিচের কোনটি প্যারাম্যাগনেটিক আয়ন?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$Zn^{2+}$$",
+      "b": "$$Cu^+$$",
+      "c": "$$Sc^{3+}$$",
+      "d": "$$Fe^{2+}$$"
+    },
+    "correctAnswer": "d",
+    "explanation": " \n প্যারাম্যাগনেটিক হওয়ার শর্ত হলো বিজোড় ইলেকট্রন থাকা। $$Fe^{2+}$$ এর বিন্যাসে ৪টি বিজোড় ইলেকট্রন থাকে।"
+  },
+  {
+    "id": 13,
+    "subject": "Chemistry",
+    "topic": "Gaseous State",
+    "question": "১৩. স্থির তাপমাত্রায় নির্দিষ্ট ভরের গ্যাসের আয়তন ও চাপের সম্পর্ক নির্দেশ করে কোনটি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "চার্লসের সূত্র",
+      "b": "বয়েলের সূত্র",
+      "c": "অ্যাভোগাড্রোর সূত্র",
+      "d": "গ্রাহামের সূত্র"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n স্থির তাপমাত্রায় আয়তন চাপের ব্যস্তানুপাতিক ($$V \\propto 1/P$$) - এটি বয়েলের সূত্র।"
+  },
+  {
+    "id": 14,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৪. নিচের কোন যৌগটি ওজনীকরণ বিক্রিয়ায় ইথান্যাল ও প্রোপানোন উৎপন্ন করে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "২-মিথাইল-২-বিউটিন",
+      "b": "২-মিথাইল-১-বিউটিন",
+      "c": "১-পেন্টিন",
+      "d": "২-পেন্টিন"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n ২-মিথাইল-২-বিউটিন ($$CH_3-C(CH_3)=CH-CH_3$$)-এর দ্বিবন্ধন ওজনীকরণে ভেঙে গিয়ে একপাশে প্রোপানোন এবং অন্যপাশে ইথান্যাল তৈরি করে।"
+  },
+  {
+    "id": 15,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "১৫. হাইড্রোজেন পরমাণুর ৩য় কক্ষপথের ব্যাসার্ধ ১ম কক্ষপথের ব্যাসার্ধের কত গুণ?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "৩ গুণ",
+      "b": "৬ গুণ",
+      "c": "৯ গুণ",
+      "d": "২৭ গুণ"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n ব্যাসার্ধ $$r_n \\propto n^2$$। ৩য় কক্ষপথের জন্য $$3^2 = 9$$, তাই এটি ১ম কক্ষপথের ৯ গুণ।"
+  },
+  {
+    "id": 16,
+    "subject": "Chemistry",
+    "topic": "Environmental Chemistry",
+    "question": "১৬. কোনটি গ্রিনহাউজ গ্যাস নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$CO_2$$",
+      "b": "$$CH_4$$",
+      "c": "$$N_2$$",
+      "d": "$$CFC$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "নাইট্রোজেন ($$N_2$$) বায়ুমণ্ডলের প্রধান উপাদান এবং এটি তাপ শোষণ করে না, তাই এটি গ্রিনহাউজ গ্যাস নয়।"
+  },
+  {
+    "id": 17,
+    "subject": "Chemistry",
+    "topic": "Coordination Chemistry",
+    "question": "১৭. $$K_4[Fe(CN)_6]$$ যৌগে আয়রনের জারণ সংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "+২",
+      "b": "+৩",
+      "c": "+৪",
+      "d": "০"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$4(+1) + x + 6(-1) = 0 \\Rightarrow 4 + x - 6 = 0 \\Rightarrow x = +2$$।"
+  },
+  {
+    "id": 18,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "১৮. ১ ফ্যারাডে বিদ্যুৎ দ্বারা কোনটির ১ মোল সঞ্চিত হবে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$Al^{3+}$$",
+      "b": "$$Mg^{2+}$$",
+      "c": "$$Na^+$$",
+      "d": "$$Ca^{2+}$$"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n ১ ফ্যারাডে বিদ্যুৎ ১ যোজী ধাতুর ১ মোল সঞ্চিত করে। সোডিয়াম ($$Na^+$$) এক যোজী আয়ন।"
+  },
+  {
+    "id": 19,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৯. নিচের কোনটি জ্যামিতিক সমাণুতা প্রদর্শন করে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "বিউট-১-ইন",
+      "b": "বিউট-২-ইন",
+      "c": "প্রোপিন",
+      "d": "ইথিন"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২০. ভিনেগারে ইথানয়িক এসিডের পরিমাণ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৪-৬\\%",
+      "b": "৬-১০\\%",
+      "c": "১০-১৫\\%",
+      "d": "২০-২৫\\%"
+    },
+    "correctAnswer": "b",
+    "explanation": "ইথানয়িক এসিডের ৬-১০\\% জলীয় দ্রবণকে ভিনেগার বলা হয়।"
+  },
+  {
+    "id": 21,
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "২১. $$N_2 + 3H_2 \\rightleftharpoons 2NH_3 + \\text{Heat}$$ বিক্রিয়ায় সর্বোচ্চ উৎপাদনের শর্ত কোনটি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "উচ্চ তাপমাত্রা ও নিম্ন চাপ",
+      "b": "নিম্ন তাপমাত্রা ও উচ্চ চাপ",
+      "c": "উচ্চ তাপমাত্রা ও উচ্চ চাপ",
+      "d": "নিম্ন তাপমাত্রা ও নিম্ন চাপ"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n এটি তাপোৎপাদী বিক্রিয়া এবং এতে আয়তন হ্রাস পায়। তাই লা-শাতেলিয়ার নীতি অনুযায়ী নিম্ন তাপমাত্রা ও উচ্চ চাপ উৎপাদনের জন্য অনুকূল।"
+  },
+  {
+    "id": 22,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২২. নিচের কোন যৌগটি ডায়াজোনিয়াম লবণ তৈরি করে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "মিথাইল অ্যামিন",
+      "b": "অ্যানিলিন",
+      "c": "ডাইমিথাইল অ্যামিন",
+      "d": "ট্রাইমিথাইল অ্যামিন"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n অ্যানিলিন ০-৫°সে. তাপমাত্রায় সোডিয়াম নাইট্রাইট ও এসিডের সাথে বিক্রিয়া করে ডায়াজোনিয়াম লবণ তৈরি করে।"
+  },
+  {
+    "id": 23,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "২৩. $$sp^3$$ সংকরায়ন হয় কোন যৌগে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$C_2H_2$$",
+      "b": "$$C_2H_4$$",
+      "c": "$$CH_4$$",
+      "d": "$$BeCl_2$$"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n মিথেনে কার্বন পরমাণু ৪টি সিগমা বন্ধন গঠন করে, তাই এটি $$sp^3$$ সংকরায়িত।"
+  },
+  {
+    "id": 24,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "২৪. খাদ্য সংরক্ষক হিসেবে ব্যবহৃত হয় কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ফরমালিন",
+      "b": "সোডিয়াম বেনজয়েট",
+      "c": "ভিনেগার",
+      "d": "সব কয়টি"
+    },
+    "correctAnswer": "d",
+    "explanation": "ফরমালিন (শিল্পক্ষেত্রে), সোডিয়াম বেনজয়েট এবং ভিনেগার - তিনটিই রাসায়নিকভাবে প্রিজারভেটিভ হিসেবে কাজ করে।"
+  },
+  {
+    "id": 25,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "২৫. শিখা পরীক্ষায় সোনালি হলুদ বর্ণ দেয় কোন মৌল?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$K$$",
+      "b": "$$Ca$$",
+      "c": "$$Na$$",
+      "d": "$$Ba$$"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n সোডিয়াম ($$Na$$) শিখা পরীক্ষায় উজ্জ্বল সোনালি হলুদ বর্ণ প্রদান করে।"
+  }
+]

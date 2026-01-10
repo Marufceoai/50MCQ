@@ -1,0 +1,403 @@
+[
+  {
+    "id": 1,
+    "subject": "Physics",
+    "topic": "Vector",
+    "question": "১. $$\\vec{A} = 2\\hat{i} + 3\\hat{j} - \\hat{k}$$ এবং $$\\vec{B} = -\\hat{i} + 2\\hat{j} + 4\\hat{k}$$ হলে $$\\vec{A} \\cdot \\vec{B}$$ এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২",
+      "b": "০",
+      "c": "৪",
+      "d": "-২"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$\\vec{A} \\cdot \\vec{B} = a_x b_x + a_y b_y + a_z b_z = (2)(-1) + (3)(2) + (-1)(4) = -2 + 6 - 4 = 0$$।"
+  },
+  {
+    "id": 2,
+    "subject": "Physics",
+    "topic": "Optics",
+    "question": "২. একটি উত্তল লেন্সের ফোকাস দূরত্ব ২৫ সেমি। লেন্সটির ক্ষমতা কত?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "+৪ ডায়োপ্টার",
+      "b": "-৪ ডায়োপ্টার",
+      "c": "+২ ডায়োপ্টার",
+      "d": "+১০ ডায়োপ্টার"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n ফোকাস দূরত্ব $$f = 25 \\text{ cm} = 0.25 \\text{ m}$$। উত্তল লেন্সের ক্ষমতা ধনাত্মক।\n$$P = \\frac{1}{f} = \\frac{1}{0.25} = +4 \\text{ D}$$।"
+  },
+  {
+    "id": 3,
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "question": "৩. কার্নো ইঞ্জিনের গ্রাহকের তাপমাত্রা কত হলে এর কর্মদক্ষতা ১০০% হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "০° সেলসিয়াস",
+      "b": "২৭৩ কেলভিন",
+      "c": "০ কেলভিন",
+      "d": "১০০ কেলভিন"
+    },
+    "correctAnswer": "c",
+    "explanation": "দক্ষতা $$\\eta = 1 - \\frac{T_2}{T_1}$$। দক্ষতা ১০০% বা ১ হতে হলে $$\\frac{T_2}{T_1}$$ এর মান ০ হতে হবে, যা কেবল $$T_2 = 0 \\text{ K}$$ হলেই সম্ভব।"
+  },
+  {
+    "id": 4,
+    "subject": "Physics",
+    "topic": "Atomic Physics",
+    "question": "৪. হাইড্রোজেন পরমাণুর ১ম কক্ষপথের ব্যাসার্ধ $$0.53 \\mathring{A}$$ হলে ৩য় কক্ষপথের ব্যাসার্ধ কত?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$1.59 \\mathring{A}$$",
+      "b": "$$4.77 \\mathring{A}$$",
+      "c": "$$2.12 \\mathring{A}$$",
+      "d": "$$0.17 \\mathring{A}$$"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n বোর পরমাণু মডেলে ব্যাসার্ধ $$r_n \\propto n^2$$।\n$$r_3 = 3^2 \\times r_1 = 9 \\times 0.53 = 4.77 \\mathring{A}$$।"
+  },
+  {
+    "id": 5,
+    "subject": "Physics",
+    "topic": "Optics",
+    "question": "৫. আলোর বেগ কোনো মাধ্যমে $$2 \\times 10^8 \\text{ m/s}$$ হলে ওই মাধ্যমের প্রতিসরণাঙ্ক কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "১.৫",
+      "b": "১.৩৩",
+      "c": "২.০",
+      "d": "১.২"
+    },
+    "correctAnswer": "a",
+    "explanation": "প্রতিসরণাঙ্ক $$\\mu = \\frac{c}{v} = \\frac{3 \\times 10^8}{2 \\times 10^8} = 1.5$$।"
+  },
+  {
+    "id": 6,
+    "subject": "Physics",
+    "topic": "Nuclear Physics",
+    "question": "৬. একটি তেজস্ক্রিয় পদার্থের অর্ধায়ু ২০ দিন। এর গড় আয়ু কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "১০ দিন",
+      "b": "২৮.৮ দিন",
+      "c": "১৪.৪ দিন",
+      "d": "৪০ দিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "গড় আয়ু $$\\tau = \\frac{T_{1/2}}{0.693} = 1.44 \\times T_{1/2}$$।\n$$\\tau = 1.44 \\times 20 = 28.8$$ দিন।"
+  },
+  {
+    "id": 7,
+    "subject": "Physics",
+    "topic": "Current Electricity",
+    "question": "৭. ৩টি ২ ওহম রোধকে সমান্তরাল সমবায়ে যুক্ত করলে তুল্য রোধ কত হবে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "৬ ওহম",
+      "b": "১.৫ ওহম",
+      "c": "২/৩ ওহম",
+      "d": "০.৫ ওহম"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n সমান্তরাল সমবায়ে $$\\frac{1}{R_p} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3} = \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} = \\frac{3}{2}$$।\nসুতরাং, $$R_p = \\frac{2}{3}$$ ওহম।"
+  },
+  {
+    "id": 8,
+    "subject": "Physics",
+    "topic": "Electronics",
+    "question": "৮. কোনটি সার্বজনীন লজিক গেট?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "AND",
+      "b": "OR",
+      "c": "NAND",
+      "d": "NOT"
+    },
+    "correctAnswer": "c",
+    "explanation": "NAND এবং NOR গেট ব্যবহার করে মৌলিক গেটসহ যেকোনো লজিক গেট তৈরি করা যায় বলে এদের সার্বজনীন গেট বলা হয়।"
+  },
+  {
+    "id": 9,
+    "subject": "Physics",
+    "topic": "Properties of Matter",
+    "question": "৯. হ্রদের তলদেশ থেকে উপরিভাগে আসায় একটি বুদবুদের ব্যাস দ্বিগুণ হলে হ্রদের গভীরতা কত? ($$P=10^5 \\text{ Pa}$$)",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "১০.৩ মিটার",
+      "b": "৩০.৯ মিটার",
+      "c": "৭০.০ মিটার",
+      "d": "৮০.০ মিটার"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n ব্যাস দ্বিগুণ হলে আয়তন $$2^3 = 8$$ গুণ হয় ($$V_2 = 8V_1$$)।\nবয়েলের সূত্রানুসারে, $$P_1V_1 = P_2V_2 \\Rightarrow (P_{atm} + h\\rho g)V_1 = P_{atm}(8V_1)$$।\n$$h\\rho g = 7P_{atm} \\Rightarrow h = \\frac{7 \\times 10^5}{1000 \\times 9.8} \\approx 71.4 \\text{ m}$$। (কাছাকাছি মান ৭০.০ মিটার)।"
+  },
+  {
+    "id": 10,
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "question": "১০. পানির ত্রৈধ বিন্দুর তাপমাত্রা কত কেলভিন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২৭৩.১৬",
+      "b": "২৭৩.০০",
+      "c": "১০০.০০",
+      "d": "০.০০"
+    },
+    "correctAnswer": "a",
+    "explanation": "পানির ত্রৈধ বিন্দুর তাপমাত্রা প্রমাণ হিসেবে $$273.16 \\text{ K}$$ ধরা হয়।"
+  },
+  {
+    "id": 11,
+    "subject": "Physics",
+    "topic": "Electronics",
+    "question": "১১. ট্রানজিস্টরের ক্ষেত্রে কোনটি সঠিক সম্পর্ক?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$I_e = I_b + I_c$$",
+      "b": "$$I_b = I_e + I_c$$",
+      "c": "$$I_c = I_e + I_b$$",
+      "d": "$$I_e = I_b - I_c$$"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n ট্রানজিস্টরে এমিটার কারেন্ট ($$I_e$$) হলো বেস কারেন্ট ($$I_b$$) এবং কালেক্টর কারেন্ট ($$I_c$$) এর সমষ্টি।"
+  },
+  {
+    "id": 12,
+    "subject": "Physics",
+    "topic": "Modern Physics",
+    "question": "১২. ১ গ্রাম ভরের সমতুল্য শক্তি কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$9 \\times 10^{13} \\text{ J}$$",
+      "b": "$$3 \\times 10^8 \\text{ J}$$",
+      "c": "$$9 \\times 10^{16} \\text{ J}$$",
+      "d": "$$1.6 \\times 10^{-19} \\text{ J}$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$E = mc^2 = (1 \\times 10^{-3} \\text{ kg}) \\times (3 \\times 10^8 \\text{ m/s})^2 = 10^{-3} \\times 9 \\times 10^{16} = 9 \\times 10^{13} \\text{ J}$$।"
+  },
+  {
+    "id": 13,
+    "subject": "Physics",
+    "topic": "Modern Physics",
+    "question": "১৩. ফটোতড়িৎ ক্রিয়ায় নির্গত ইলেকট্রনের সংখ্যা কিসের ওপর নির্ভর করে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "কম্পাঙ্ক",
+      "b": "তীব্রতা",
+      "c": "তরঙ্গদৈর্ঘ্য",
+      "d": "বিভব"
+    },
+    "correctAnswer": "b",
+    "explanation": "আপতিত আলোর তীব্রতা বাড়লে ফোটনের সংখ্যা বাড়ে, ফলে নির্গত ফটোইলেকট্রনের সংখ্যাও বাড়ে। (ইলেকট্রনের গতিশক্তি কম্পাঙ্কের ওপর নির্ভর করে)।"
+  },
+  {
+    "id": 14,
+    "subject": "Physics",
+    "topic": "Electrostatics",
+    "question": "১৪. ১ মাইক্রো-ফ্যারাড ও ২ মাইক্রো-ফ্যারাড ধারককে শ্রেণিতে যুক্ত করলে তুল্য ধারকত্ব কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৩",
+      "b": "২/৩",
+      "c": "১/২",
+      "d": "৪"
+    },
+    "correctAnswer": "b",
+    "explanation": "শ্রেণি সমবায়ে, $$\\frac{1}{C_s} = \\frac{1}{C_1} + \\frac{1}{C_2} = \\frac{1}{1} + \\frac{1}{2} = \\frac{3}{2}$$।\nসুতরাং, $$C_s = \\frac{2}{3} \\mu\\text{F}$$।"
+  },
+  {
+    "id": 15,
+    "subject": "Physics",
+    "topic": "Electronics",
+    "question": "১৫. সেমিকন্ডাক্টরের তাপমাত্রা বাড়ালে পরিবাহিতা—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বাড়ে",
+      "b": "কমে",
+      "c": "একই থাকে",
+      "d": "হঠাৎ কমে যায়"
+    },
+    "correctAnswer": "a",
+    "explanation": "অর্ধপরিবাহীর তাপমাত্রা বাড়ালে সমযোজী বন্ধন ভেঙে মুক্ত ইলেকট্রন ও হোল তৈরি হয়, ফলে রোধ কমে এবং পরিবাহিতা বাড়ে।"
+  },
+  {
+    "id": 16,
+    "subject": "Physics",
+    "topic": "Gravitation",
+    "question": "১৬. পৃথিবীর কেন্দ্রে 'g' এর মান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৯.৮",
+      "b": "০",
+      "c": "অসীম",
+      "d": "১"
+    },
+    "correctAnswer": "b",
+    "explanation": "পৃথিবীর কেন্দ্রে কার্যকর ভর শূন্য হওয়ায় অভিকর্ষজ ত্বরণ $$g$$ এর মান শূন্য হয়।"
+  },
+  {
+    "id": 17,
+    "subject": "Physics",
+    "topic": "Atomic Physics",
+    "question": "১৭. বোরের মডেল অনুযায়ী ইলেকট্রনের কৌণিক ভরবেগ $$L$$ সমান কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$nh/2\\pi$$",
+      "b": "$$h/2\\pi$$",
+      "c": "$$mv/r$$",
+      "d": "$$E/c$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "বোরের দ্বিতীয় স্বীকার্য অনুযায়ী, ইলেকট্রনের কৌণিক ভরবেগ $$L = mvr = \\frac{nh}{2\\pi}$$।"
+  },
+  {
+    "id": 18,
+    "subject": "Physics",
+    "topic": "Optics",
+    "question": "১৮. প্রিজমের মধ্য দিয়ে আলো প্রতিসরণের ক্ষেত্রে বিচ্যুতি সবচেয়ে কম হয় কোন বর্ণের?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "লাল",
+      "b": "বেগুনি",
+      "c": "নীল",
+      "d": "হলুদ"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+
+},
+  {
+    "id": 19,
+    "subject": "Physics",
+    "topic": "Periodic Motion",
+    "question": "১৯. একটি সরল দোলকের দৈর্ঘ্য চারগুণ করলে দোলনকাল কতগুণ হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২ গুণ",
+      "b": "৪ গুণ",
+      "c": "১৬ গুণ",
+      "d": "অর্ধেক"
+    },
+    "correctAnswer": "a",
+    "explanation": "দোলনকাল $$T \\propto \\sqrt{L}$$। দৈর্ঘ্য ৪ গুণ ($$4L$$) করলে দোলনকাল হবে $$\\sqrt{4} = 2$$ গুণ।"
+  },
+  {
+    "id": 20,
+    "subject": "Physics",
+    "topic": "Modern Physics",
+    "question": "২০. $$1 \\text{ eV}$$ সমান কত জুল?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$1.6 \\times 10^{-19}$$",
+      "b": "$$9.1 \\times 10^{-31}$$",
+      "c": "$$6.6 \\times 10^{-34}$$",
+      "d": "$$3 \\times 10^8$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$1 \\text{ electron-volt (eV)}$$ হলো একটি ইলেকট্রন ১ ভোল্ট বিভব পার্থক্যে যে শক্তি অর্জন করে, যা $$1.6 \\times 10^{-19} \\text{ J}$$ এর সমান।"
+  },
+  {
+    "id": 21,
+    "subject": "Physics",
+    "topic": "Properties of Matter",
+    "question": "২১. বৃষ্টির ফোঁটা গোলাকার হওয়ার কারণ কী?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "সান্দ্রতা",
+      "b": "পৃষ্ঠটান",
+      "c": "স্থিতিস্থাপকতা",
+      "d": "বায়ুর চাপ"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n পৃষ্ঠটানের কারণে তরল পদার্থ তার পৃষ্ঠের ক্ষেত্রফল সর্বনিম্ন রাখতে চায়। নির্দিষ্ট আয়তনের জন্য গোলকের ক্ষেত্রফল সবচেয়ে কম, তাই বৃষ্টির ফোঁটা গোলাকার হয়।"
+  },
+  {
+    "id": 22,
+    "subject": "Physics",
+    "topic": "Electronics",
+    "question": "২২. P টাইপ সেমিকন্ডাক্টর তৈরির জন্য সিলিকনের সাথে কোনটি যোগ করা হয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "ফসফরাস",
+      "b": "অ্যালুমিনিয়াম",
+      "c": "আর্সেনিক",
+      "d": "অ্যান্টিমনি"
+    },
+    "correctAnswer": "b",
+    "explanation": "P টাইপ সেমিকন্ডাক্টর তৈরির জন্য ত্রিযোজী মৌল (গ্রুপ-১৩) ডোপিং করা হয়। এখানে অ্যালুমিনিয়াম ($$Al$$) ত্রিযোজী। ফসফরাস, আর্সেনিক, অ্যান্টিমনি পঞ্চযোজী (N টাইপ)।"
+  },
+  {
+    "id": 23,
+    "subject": "Physics",
+    "topic": "Electronics",
+    "question": "২৩. জেনার ডায়োড প্রধানত ব্যবহৃত হয়—",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "ভোল্টেজ রেগুলেশনে",
+      "b": "বিবর্ধনে",
+      "c": "মডুলেশনে",
+      "d": "আলোক উৎপাদনে"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n জেনার ডায়োড রিভার্স বায়াসে ব্রেকডাউন অঞ্চলে কাজ করে এবং বর্তনীতে ধ্রুব ভোল্টেজ বা ভোল্টেজ রেগুলেটর হিসেবে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 24,
+    "subject": "Physics",
+    "topic": "Gravitation",
+    "question": "২৪. মহাকর্ষীয় ধ্রুবক $$G$$ এর মাত্রা কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$M^{-1}L^3T^{-2}$$",
+      "b": "$$ML^2T^{-2}$$",
+      "c": "$$M^{-1}L^2T^{-2}$$",
+      "d": "$$M^2L^3T^{-1}$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$F = G \\frac{m_1 m_2}{d^2} \\Rightarrow G = \\frac{Fd^2}{m^2}$$।\nমাত্রা: $$\\frac{[MLT^{-2}][L^2]}{[M^2]} = M^{-1}L^3T^{-2}$$।"
+  },
+  {
+    "id": 25,
+    "subject": "Physics",
+    "topic": "Optics",
+    "question": "২৫. একটি অবতল দর্পণের বক্রতার ব্যাসার্ধ ২০ সেমি হলে এর ফোকাস দূরত্ব কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "১০ সেমি",
+      "b": "২০ সেমি",
+      "c": "৫ সেমি",
+      "d": "৪০ সেমি"
+    },
+    "correctAnswer": "a",
+    "explanation": "ফোকাস দূরত্ব বক্রতার ব্যাসার্ধের অর্ধেক। $$f = \\frac{R}{2} = \\frac{20}{2} = 10 \\text{ cm}$$।"
+  }
+]

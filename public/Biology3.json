@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "subject": "Biology",
+    "topic": "Cell Chemistry",
+    "question": "১. এনজাইম মূলত কী দিয়ে গঠিত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "লিপিড",
+      "b": "প্রোটিন",
+      "c": "শর্করা",
+      "d": "ভিটামিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "এনজাইম হলো এক ধরণের জৈব অনুঘটক বা বায়োক্যাটালিস্ট যা মূলত প্রোটিন দিয়ে গঠিত।"
+  },
+  {
+    "id": 2,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "২. ঘাসফড়িং-এর শ্বসন অঙ্গের নাম কী?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "ফুলকা",
+      "b": "ফুসফুস",
+      "c": "ট্রাকিয়া",
+      "d": "ত্বক"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n ঘাসফড়িং ও অন্যান্য পতঙ্গের প্রধান শ্বসন অঙ্গ হলো ট্রাকিয়া বা শ্বাসনালী।"
+  },
+  {
+    "id": 3,
+    "subject": "Biology",
+    "topic": "Coordination",
+    "question": "৩. করোটিক স্নায়ু কত জোড়া?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "১০ জোড়া",
+      "b": "১২ জোড়া",
+      "c": "৩১ জোড়া",
+      "d": "৩৩ জোড়া"
+    },
+    "correctAnswer": "b",
+    "explanation": "[Image of human cranial nerves diagram] \n মানুষের মস্তিষ্ক থেকে ১২ জোড়া করোটিক স্নায়ু (Cranial Nerves) উৎপন্ন হয়ে দেহের বিভিন্ন অংশে বিস্তার লাভ করে।"
+  },
+  {
+    "id": 4,
+    "subject": "Biology",
+    "topic": "Botany",
+    "question": "৪. নিচের কোনটি ফার্ন উদ্ভিদ?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Riccia",
+      "b": "Marchantia",
+      "c": "Pteris",
+      "d": "Agaricus"
+    },
+    "correctAnswer": "c",
+    "explanation": "*Pteris* একটি টেরিডোফাইট বা ফার্ন জাতীয় উদ্ভিদ। *Riccia* ও *Marchantia* হলো ব্রায়োফাইট এবং *Agaricus* হলো ছত্রাক।"
+  },
+  {
+    "id": 5,
+    "subject": "Biology",
+    "topic": "Blood & Circulation",
+    "question": "৫. রক্তের সর্বজনীন গ্রহীতা গ্রুপ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "A+",
+      "b": "B+",
+      "c": "O+",
+      "d": "AB+"
+    },
+    "correctAnswer": "d",
+    "explanation": "AB+ রক্ত গ্রুপে A ও B উভয় অ্যান্টিজেন থাকে এবং কোনো অ্যান্টিবডি থাকে না, তাই এটি সবার কাছ থেকে রক্ত গ্রহণ করতে পারে।"
+  },
+  {
+    "id": 6,
+    "subject": "Biology",
+    "topic": "Taxonomy",
+    "question": "৬. কোনটি দ্বিপদ নামকরণের প্রবর্তক?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বেন্থাম",
+      "b": "হুকার",
+      "c": "ক্যারোলাস লিনিয়াস",
+      "d": "থিওফ্রাস্টাস"
+    },
+    "correctAnswer": "c",
+    "explanation": "সুইডিশ বিজ্ঞানী ক্যারোলাস লিনিয়াস ১৭৫৩ সালে দ্বিপদ নামকরণ প্রথা প্রবর্তন করেন।"
+  },
+  {
+    "id": 7,
+    "subject": "Biology",
+    "topic": "Plant Physiology",
+    "question": "৭. শ্বসনের কোন ধাপে সর্বাধিক ATP উৎপন্ন হয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "গ্লাইকোলাইসিস",
+      "b": "ক্রেবস চক্র",
+      "c": "ইলেকট্রন প্রবাহ তন্ত্র",
+      "d": "অ্যাসিটাইল কো-এ সৃষ্টি"
+    },
+    "correctAnswer": "c",
+    "explanation": "[Image of electron transport chain ATP production] \n ইলেকট্রন প্রবাহ তন্ত্র বা Electron Transport Chain (ETC) ধাপে জারণীয় ফসফোরাইলেশনের মাধ্যমে সবচেয়ে বেশি ATP তৈরি হয়।"
+  },
+  {
+    "id": 8,
+    "subject": "Biology",
+    "topic": "Movement",
+    "question": "৮. অস্থি ও পেশির সংযোগস্থলকে কী বলে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "লিগামেন্ট",
+      "b": "টেন্ডন",
+      "c": "সাইনুস",
+      "d": "ম্যারো"
+    },
+    "correctAnswer": "b",
+    "explanation": "টেন্ডন হলো যোজক কলা যা পেশিকে অস্থির সাথে সংযুক্ত করে। লিগামেন্ট অস্থিকে অস্থির সাথে যুক্ত করে।"
+  },
+  {
+    "id": 9,
+    "subject": "Biology",
+    "topic": "Cell Chemistry",
+    "question": "৯. RNA-তে থাইমিনের পরিবর্তে কী থাকে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "এডেনিন",
+      "b": "গুয়ানিন",
+      "c": "ইউরাসিল",
+      "d": "সাইটোসিন"
+    },
+    "correctAnswer": "c",
+    "explanation": "DNA-তে থাইমিন ($$T$$) থাকে, কিন্তু RNA-তে তার পরিবর্তে ইউরাসিল ($$U$$) থাকে যা এডেনিনের সাথে যুক্ত হয়।"
+  },
+  {
+    "id": 10,
+    "subject": "Biology",
+    "topic": "Coordination",
+    "question": "১০. মানুষের চোখের রেটিনায় কোন কোষ উজ্জ্বল আলোতে দেখতে সাহায্য করে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "রড কোষ",
+      "b": "কোন কোষ",
+      "c": "পিগমেন্ট কোষ",
+      "d": "স্নায়ু কোষ"
+    },
+    "correctAnswer": "b",
+    "explanation": "[Image of rod and cone cells in retina] \n কোন কোষ (Cone cells) উজ্জ্বল আলো এবং রঙ দর্শনে সাহায্য করে। রড কোষ (Rod cells) মৃদু আলোতে দেখতে সাহায্য করে।"
+  },
+  {
+    "id": 11,
+    "subject": "Biology",
+    "topic": "Cell Division",
+    "question": "১১. কোনটি হ্যাপ্লয়েড কোষ?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "জাইগোট",
+      "b": "জনন মাতৃকোষ",
+      "c": "শুক্রাণু",
+      "d": "দেহকোষ"
+    },
+    "correctAnswer": "c",
+    "explanation": "শুক্রাণু ও ডিম্বাণু হলো জনন কোষ বা গ্যামেট, যা হ্যাপ্লয়েড ($$n$$)। জাইগোট ও দেহকোষ ডিপ্লয়েড ($$2n$$)।"
+  },
+  {
+    "id": 12,
+    "subject": "Biology",
+    "topic": "Microbes",
+    "question": "১২. ভাইরাসের দেহ কী দ্বারা আবৃত?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "কোষপ্রাচীর",
+      "b": "প্লাজমা মেমব্রেন",
+      "c": "ক্যাপসিড",
+      "d": "কিউটিকল"
+    },
+    "correctAnswer": "c",
+    "explanation": "[Image of virus structure showing capsid] \n ভাইরাসের নিউক্লিক অ্যাসিডকে ঘিরে প্রোটিন নির্মিত যে আবরণ থাকে তাকে ক্যাপসিড বলে।"
+  },
+  {
+    "id": 13,
+    "subject": "Biology",
+    "topic": "Botany",
+    "question": "১৩. কোনটি একবীজপত্রী উদ্ভিদের গোত্রের উদাহরণ?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Malvaceae",
+      "b": "Cruciferae",
+      "c": "Poaceae",
+      "d": "Solanaceae"
+    },
+    "correctAnswer": "c",
+    "explanation": "Poaceae (ধান, গম, ভুট্টা ইত্যাদি) হলো একবীজপত্রী উদ্ভিদ গোত্র। বাকিগুলো দ্বিবীজপত্রী।"
+  },
+  {
+    "id": 14,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "১৪. রুই মাছের বায়ুথলিতে কোন গ্যাস থাকে না?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "অক্সিজেন",
+      "b": "নাইট্রোজেন",
+      "c": "কার্বন ডাই অক্সাইড",
+      "d": "হাইড্রোজেন"
+    },
+    "correctAnswer": "d",
+    "explanation": "রুই মাছের বায়ুথলিতে প্রধানত অক্সিজেন, নাইট্রোজেন ও কার্বন ডাই অক্সাইড গ্যাস থাকে। হাইড্রোজেন থাকে না।"
+  },
+  {
+    "id": 15,
+    "subject": "Biology",
+    "topic": "Genetics",
+    "question": "১৫. কোনটি স্টার্ট কোডন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "UAA",
+      "b": "UAG",
+      "c": "AUG",
+      "d": "UGA"
+    },
+    "correctAnswer": "c",
+    "explanation": "AUG কোডনটি মেথিওনিন অ্যামিনো এসিড নির্দেশ করে এবং প্রোটিন সংশ্লেষণ শুরু করে, তাই একে স্টার্ট কোডন বা প্রারম্ভিক কোডন বলে।"
+  },
+  {
+    "id": 16,
+    "subject": "Biology",
+    "topic": "Blood & Circulation",
+    "question": "১৬. মানবদেহের স্বাভাবিক রক্তচাপ কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "80/120 mmHg",
+      "b": "120/80 mmHg",
+      "c": "100/60 mmHg",
+      "d": "140/90 mmHg"
+    },
+    "correctAnswer": "b",
+    "explanation": "একজন সুস্থ প্রাপ্তবয়স্ক মানুষের সিস্টোলিক চাপ ১২০ mmHg এবং ডায়াস্টোলিক চাপ ৮০ mmHg হওয়া স্বাভাবিক।"
+  },
+  {
+    "id": 17,
+    "subject": "Biology",
+    "topic": "Digestion",
+    "question": "১৭. পিত্তরস কোথা থেকে নিঃসৃত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "পিত্তথলি",
+      "b": "যকৃৎ",
+      "c": "অগ্ন্যাশয়",
+      "d": "পাকস্থলী"
+    },
+    "correctAnswer": "b",
+    "explanation": "পিত্তরস যকৃতে (Liver) তৈরি হয় এবং পিত্তথলিতে জমা থাকে। নিঃসরণ হয় যকৃৎ থেকে।"
+  },
+  {
+    "id": 18,
+    "subject": "Biology",
+    "topic": "Plant Reproduction",
+    "question": "১৮. নিষেকের পর ডিম্বাশয় কিসে পরিণত হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বীজ",
+      "b": "ফল",
+      "c": "ভ্রূণ",
+      "d": "শস্য"
+    },
+    "correctAnswer": "b",
+    "explanation": "নিষেকের পর সম্পূর্ণ ডিম্বাশয় ফলে এবং ডিম্বক বীজে পরিণত হয়।"
+  },
+  {
+    "id": 19,
+    "subject": "Biology",
+    "topic": "Coordination",
+    "question": "১৯. কোনটিকে 'মাস্টার গ্ল্যান্ড' বলা হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "থাইরয়েড",
+      "b": "পিটুইটারি",
+      "c": "অ্যাড্রেনাল",
+      "d": "পিনিয়াল"
+    },
+    "correctAnswer": "b",
+    "explanation": "পিটুইটারি গ্রন্থি থেকে নিঃসৃত হরমোন অন্যান্য অন্তঃক্ষরা গ্রন্থির কার্যকারিতা নিয়ন্ত্রণ করে বলে একে প্রভু গ্রন্থি বা মাস্টার গ্ল্যান্ড বলা হয়।"
+  },
+  {
+    "id": 20,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "২০. ঘাসফড়িং-এর পুঞ্জাক্ষির একককে কী বলে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "ওসেললাস",
+      "b": "ওমাটিডিয়াম",
+      "c": "রেটিনা",
+      "d": "লেন্স"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n আর্থ্রোপোডা পর্বের প্রাণীদের পুঞ্জাক্ষি অসংখ্য সরু, লম্বা ও ষড়ভুজাকৃতি দর্শন একক নিয়ে গঠিত, যাদের ওমাটিডিয়াম বলা হয়।"
+  },
+  {
+    "id": 21,
+    "subject": "Biology",
+    "topic": "Human Reproduction",
+    "question": "২১. টেস্ট টিউব বেবি পদ্ধতিতে নিষেক কোথায় ঘটে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "জরায়ুতে",
+      "b": "ফ্যালোপিয়ান নালীতে",
+      "c": "দেহের বাইরে ল্যাবে",
+      "d": "ওভারিতে"
+    },
+    "correctAnswer": "c",
+    "explanation": "ইন-ভিট্রো ফর্টিলাইজেশন (IVF) বা টেস্ট টিউব বেবি পদ্ধতিতে স্ত্রী ও পুরুষের গ্যামেট সংগ্রহ করে দেহের বাইরে টেস্ট টিউব বা পেট্রিডিশে নিষিক্ত করা হয়।"
+  },
+  {
+    "id": 22,
+    "subject": "Biology",
+    "topic": "Plant Reproduction",
+    "question": "২২. কোনটি প্রকৃত ফল?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "আপেল",
+      "b": "চালতা",
+      "c": "আম",
+      "d": "আনারস"
+    },
+    "correctAnswer": "c",
+    "explanation": "গর্ভাশয় বা ডিম্বাশয় এককভাবে ফলে পরিণত হলে তাকে প্রকৃত ফল বলে। যেমন: আম। আপেল ও চালতা অপ্রকৃত ফল।"
+  },
+  {
+    "id": 23,
+    "subject": "Biology",
+    "topic": "Plant Physiology",
+    "question": "২৩. ১ অণু $$NADH_2$$ জারণে কত অণু ATP পাওয়া যায় (আধুনিক মত)?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৩",
+      "b": "২",
+      "c": "২.৫",
+      "d": "১.৫"
+    },
+    "correctAnswer": "c",
+    "explanation": "আধুনিক মতবাদ অনুযায়ী ১ অণু $$NADH + H^+$$ (বা $$NADH_2$$) থেকে ২.৫ অণু ATP এবং ১ অণু $$FADH_2$$ থেকে ১.৫ অণু ATP পাওয়া যায়।"
+  },
+  {
+    "id": 24,
+    "subject": "Biology",
+    "topic": "Movement",
+    "question": "২৪. মানবদেহে মোট কশেরুকার সংখ্যা কত?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "৩৩টি",
+      "b": "২৬টি (প্রাপ্তবয়স্ক)",
+      "c": "১২টি",
+      "d": "৭টি"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n শিশুকালে মেরুদণ্ডে ৩৩টি কশেরুকা থাকে। প্রাপ্তবয়স্ক অবস্থায় স্যাক্রাল ও কক্কিজিয়াল কশেরুকাগুলো একীভূত হয়ে মোট ২৬টি কশেরুকা গঠন করে।"
+  },
+  {
+    "id": 25,
+    "subject": "Biology",
+    "topic": "Blood & Circulation",
+    "question": "২৫. হিমোগ্লোবিনে কোন ধাতব আয়ন থাকে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "আয়রণ",
+      "b": "ম্যাগনেসিয়াম",
+      "c": "কপার",
+      "d": "জিঙ্ক"
+    },
+    "correctAnswer": "a",
+    "explanation": "হিমোগ্লোবিন হলো হিম (লৌহ বা আয়রণ যুক্ত রঞ্জক) এবং গ্লোবিন (প্রোটিন) এর সমন্বয়ে গঠিত।"
+  }
+]

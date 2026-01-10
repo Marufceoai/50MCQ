@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "১৬. প্রথম তিনটি বোর কক্ষপথের ব্যাসার্ধের অনুপাত হচ্ছে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1:1/4:1/9",
+      "b": "1:2:3",
+      "c": "1:4:9",
+      "d": "1:8:27"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "১৭. ভূমি অবস্থায় যে পরমাণু/আয়নে ইলেকট্রন বিন্যাসে সর্বাধিক অযুগ্ম ইলেকট্রন থাকে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Mn2+",
+      "b": "Co",
+      "c": "Cr2+",
+      "d": "Fe"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "topic": "Gaseous State",
+    "question": "১৮. 25°C তাপমাত্রায় 1 atm চাপে 4 L O2 গ্যাসকে 0.8 L এ পরিণত করতে চাপ বৃদ্ধির পরিমাণ হবে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "5 atm",
+      "b": "4 atm",
+      "c": "3 atm",
+      "d": "2 atm"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "১৯. ইথানোয়িক অ্যাসিডের ডাইমারে কয়টি হাইড্রোজেন বন্ধন বিদ্যমান?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "২০. 100 mL 0.02 M Na2CO3 দ্রবণ তৈরিতে প্রয়োজনীয় Na2CO3 এর পরিমাণ—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0.106 g",
+      "b": "0.122 g",
+      "c": "0.212 g",
+      "d": "0.221 g"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "subject": "Chemistry",
+    "topic": "Gaseous State",
+    "question": "২১. যখন গ্যাস A এর 7.0 মোল এবং গ্যাস B এর 3.0 মোল মিশানো হয় তখন মিশ্রণের মোট চাপ হয় 760 mm Hg। মিশ্রণে A গ্যাসের আংশিক চাপ কত হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "512 mm Hg",
+      "b": "522 mm Hg",
+      "c": "532 mm Hg",
+      "d": "542 mm Hg"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২২. কোনটি একটি অ্যালকাইনের সংকেত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "C2H4",
+      "b": "C3H6",
+      "c": "C3H8",
+      "d": "C4H6"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "২৩. ইউরিয়া সার উৎপাদনে অন্তর্বর্তী উপাদান হলো—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "CO2",
+      "b": "NH3",
+      "c": "H-CO-NH2",
+      "d": "H2NCOONH4"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "২৪. নিচের অক্সাইডগুলোর মধ্যে কোন জোড়াটি সবচেয়ে বেশি অম্লধর্মী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "N2O ও Mn2O3",
+      "b": "N2O3 ও MnO2",
+      "c": "N2O4 ও Mn2O7",
+      "d": "NO ও Mn2O3"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২৬. মিথেন (CH4) এর পূর্ণ দহনের সময় কার্বন পরমাণুর সংকরায়ণে কী পরিবর্তন ঘটে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "sp3 থেকে sp",
+      "b": "sp3 থেকে sp2",
+      "c": "sp2 থেকে sp",
+      "d": "sp2 থেকে sp3"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২৭. যে যৌগে দুটি কাইরাল কার্বন পরমাণু আছে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২-হাইড্রক্সি প্রোপানোয়িক অ্যাসিড",
+      "b": "২-মিথাইল প্রোপানল-২",
+      "c": "বিউটেন-২,৩-ডাইওল",
+      "d": "বিউটানল-২"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "২৮. 18 g Al ক্যাথোডে সঞ্চিত করতে প্রয়োজনীয় বিদ্যুতের পরিমাণ—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2.0 F",
+      "b": "1.5 F",
+      "c": "2.5 F",
+      "d": "3.0 F"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "২৯. C, O, Ne ও F এর তড়িৎ ঋণাত্মকতার সঠিক ক্রম কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "F > O > C > Ne",
+      "b": "Ne > F > O > C",
+      "c": "O > F > C > Ne",
+      "d": "F > C > O > Ne"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩০. যদি নিম্নোক্ত গ্যাসগুলোর একই ভর থাকে তবে কোনটিতে সর্বাপেক্ষা কম সংখ্যক অণু আছে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Ar",
+      "b": "Cl2",
+      "c": "CO",
+      "d": "SO2"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "১৭. নিম্নোক্ত ধাতুগুলোর মধ্যে কোনটি জলীয় সিলভার নাইট্রেট-এ ডুবালে এর পৃষ্ঠতলে সিলভার জমা হবে না?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Cu",
+      "b": "Fe",
+      "c": "Pt",
+      "d": "Zn"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৮. ২-মিথাইল-২ বিউটানল অণুতে কতটি কার্বন-কার্বন বন্ধন থাকে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "১৯. 10 mL 0.5 M Na2CO3 দ্রবণকে 0.05 M দ্রবণে পরিণত করতে কত পরিমাণ পানি মেশাতে হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "80 mL",
+      "b": "90 mL",
+      "c": "100 mL",
+      "d": "110 mL"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry",
+    "question": "২০. নিম্নোক্ত কোন বিক্রিয়াটি সঠিক নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "MnO2 + 4HCl -> MnCl2 + Cl2 + 2H2O",
+      "b": "8NH3 + 3Cl2 -> 6NH4Cl + N2",
+      "c": "2NaOH + Cl2 -> 2NaCl + H2 + O2",
+      "d": "Ca(OH)2 + Cl2 -> Ca(OCl)Cl + H2O"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২১. অ্যালিল অ্যালকোহলের সংকেত কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "CH3-CH2-CH2-OH",
+      "b": "CH3-CH-CH3",
+      "c": "CH2=CH-CH2OH",
+      "d": "CH3-CH=CH-OH"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "subject": "Chemistry",
+    "topic": "Oxidation-Reduction",
+    "question": "২২. Cr2O7 2- এ Cr এর জারণ সংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "10",
+      "b": "5",
+      "c": "6",
+      "d": "3"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "২৩. নিচের কোন অরবিটালটি বৃত্তাকার নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "n=2, l=0",
+      "b": "n=3, l=0",
+      "c": "n=3, l=1",
+      "d": "n=1, l=0"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "subject": "Chemistry",
+    "topic": "Oxidation-Reduction",
+    "question": "২৪. Ca(OCl)Cl যৌগে Cl এর জারণ সংখ্যা—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "-1, -1",
+      "b": "+1, -1",
+      "c": "+1, -2",
+      "d": "-1, +2"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "২৬. ক্যালসিয়াম হাইড্রাইড অতিরিক্ত পানির সাথে বিক্রিয়া করে উৎপন্ন করে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "CaO এবং H2",
+      "b": "Ca(OH)2 এবং O2",
+      "c": "Ca(OH)2",
+      "d": "Ca(OH)2 এবং H2"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "২৭. Ka এর মানের উপর ভিত্তি করে অ্যাসিডগুলোর সবলতার সঠিক ক্রম—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "HNO2 > HCOOH > CH3COOH > HCN",
+      "b": "HCN > CH3COOH > HCOOH > HNO2",
+      "c": "HNO2 > CH3COOH > HCOOH > HCN",
+      "d": "HCOOH > HNO2 > CH3COOH > HCN"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "২৮. অ্যাসেটিক অ্যাসিডের বিয়োজন মাত্রা 10% হলে ঐ অ্যাসিডের 0.001 মোলার দ্রবণের pH কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "4",
+      "c": "0",
+      "d": "3"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৩০. যে যৌগ অ্যালডল ঘনীভবন বিক্রিয়া প্রদর্শন করে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "(CH3)3C - CHO",
+      "b": "HCHO",
+      "c": "C6H5CHO",
+      "d": "CH3CHO"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩১. কস্টিক সোডার 20 mL দ্রবণকে সম্পূর্ণরূপে প্রশমিত করতে 25 mL 0.5 M H2SO4 এর প্রয়োজন হলে ক্ষার দ্রবণের মোলারিটি হবে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1.25",
+      "b": "1.20",
+      "c": "0.80",
+      "d": "1.05"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩২. কোনটি সঠিক নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "মানব দেহে স্বাভাবিক অবস্থায় রক্ত একটু ক্ষারীয়",
+      "b": "NH4OH + NH4Cl একটি বাফার দ্রবণ নয়",
+      "c": "CH3COOH + CH3COONa একটি বাফার দ্রবণ",
+      "d": "অ্যাসিড বৃষ্টি হলে মাটির pH মান হ্রাস পায়"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  }
+]

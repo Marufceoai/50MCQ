@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "subject": "Biology",
+    "topic": "Cell & Structure",
+    "question": "১. কোষের 'পাওয়ার হাউস' বলা হয় কোনটিকে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "রাইবোজোম",
+      "b": "লাইসোজোম",
+      "c": "মাইটোকন্ড্রিয়া",
+      "d": "গলগি বস্তু"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "subject": "Biology",
+    "topic": "Plant Physiology",
+    "question": "২. নিচের কোনটি উদ্ভিদের মাইক্রো-মৌল?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ম্যাগনেসিয়াম",
+      "b": "নাইট্রোজেন",
+      "c": "পটাশিয়াম",
+      "d": "কপার"
+    },
+    "correctAnswer": "d",
+    "explanation": "উদ্ভিদের পুষ্টির জন্য কপার ($$Cu$$) খুব সামান্য পরিমাণে প্রয়োজন হয়, তাই এটি মাইক্রো-মৌল। ম্যাগনেসিয়াম, নাইট্রোজেন ও পটাশিয়াম হলো ম্যাক্রো-মৌল।"
+  },
+  {
+    "id": 3,
+    "subject": "Biology",
+    "topic": "Genetics",
+    "question": "৩. মানুষের শরীরে অটোজোমের সংখ্যা কতটি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "৪৪টি",
+      "b": "৪৬টি",
+      "c": "২২টি",
+      "d": "২৩টি"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n মানুষের দেহকোষে মোট ৪৬টি (২৩ জোড়া) ক্রোমোজোম থাকে। এর মধ্যে ২২ জোড়া বা ৪৪টি অটোজোম এবং ১ জোড়া সেক্স ক্রোমোজোম।"
+  },
+  {
+    "id": 4,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "৪. রুই মাছের হৃৎপিণ্ড কত প্রকোষ্ঠ বিশিষ্ট?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "২",
+      "b": "৩",
+      "c": "৪",
+      "d": "১"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "subject": "Biology",
+    "topic": "Digestion",
+    "question": "৫. মানবদেহের সবচেয়ে বড় গ্রন্থি কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "অগ্ন্যাশয়",
+      "b": "যকৃৎ",
+      "c": "থাইরয়েড",
+      "d": "পিটুইটারি"
+    },
+    "correctAnswer": "b",
+    "explanation": "যকৃৎ (Liver) হলো মানবদেহের সবচেয়ে বড় গ্রন্থি যা পিত্তরস তৈরি করে এবং বিপাকীয় কার্যাবলি নিয়ন্ত্রণ করে।"
+  },
+  {
+    "id": 6,
+    "subject": "Biology",
+    "topic": "Plant Physiology",
+    "question": "৬. $$C_3$$ উদ্ভিদে কার্বন বিজারণের প্রথম স্থায়ী পদার্থ কোনটি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "অক্সালো অ্যাসিটিক অ্যাসিড",
+      "b": "ম্যালিক অ্যাসিড",
+      "c": "৩-ফস্ফোগ্লিসারিক অ্যাসিড",
+      "d": "গ্লুকোজ"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "subject": "Biology",
+    "topic": "Blood & Circulation",
+    "question": "৭. কোনটি রক্ত তঞ্চনে সাহায্য করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "হিমোগ্লোবিন",
+      "b": "ফাইব্রিনোজেন",
+      "c": "অ্যালবুমিন",
+      "d": "গ্লোবিউলিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "ফাইব্রিনোজেন রক্তরসে থাকা একটি প্রোটিন যা ফাইব্রিন জালক তৈরির মাধ্যমে রক্ত জমাট বাঁধতে বা তঞ্চনে সাহায্য করে।"
+  },
+  {
+    "id": 8,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "৮. ঘাসফড়িং-এর রক্ত সংবহনতন্ত্র কোন ধরনের?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বদ্ধ",
+      "b": "মুক্ত",
+      "c": "অর্ধ-মুক্ত",
+      "d": "কোনটিই নয়"
+    },
+    "correctAnswer": "b",
+    "explanation": "আর্থ্রোপোডা পর্বের প্রাণী হিসেবে ঘাসফড়িং-এর দেহে মুক্ত সংবহনতন্ত্র দেখা যায়, যেখানে রক্ত নালীর বাইরে হিমোসিলে উন্মুক্ত থাকে।"
+  },
+  {
+    "id": 9,
+    "subject": "Biology",
+    "topic": "Cell Division",
+    "question": "৯. কোষ বিভাজনের কোন ধাপে ক্রোমোজোমগুলো বিষুবীয় অঞ্চলে বিন্যস্ত হয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "প্রোফেজ",
+      "b": "মেটাফেজ",
+      "c": "অ্যানাফেজ",
+      "d": "টেলোফেজ"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "subject": "Biology",
+    "topic": "Excretion",
+    "question": "১০. মানবদেহে বৃক্কের গাঠনিক একক কোনটি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "নিউরন",
+      "b": "নেফ্রন",
+      "c": "এলভিওলাই",
+      "d": "ভিলাই"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "subject": "Biology",
+    "topic": "Coordination",
+    "question": "১১. কোন হরমোন রক্তে গ্লুকোজের মাত্রা কমায়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "গ্লুকাগন",
+      "b": "ইনসুলিন",
+      "c": "অ্যাড্রেনালিন",
+      "d": "থাইরক্সিন"
+    },
+    "correctAnswer": "b",
+    "explanation": "অগ্ন্যাশয়ের আইলেটস অব ল্যাঙ্গারহ্যান্স-এর বিটা কোষ থেকে নিঃসৃত ইনসুলিন রক্তে গ্লুকোজের মাত্রা কমিয়ে স্বাভাবিক রাখে।"
+  },
+  {
+    "id": 12,
+    "subject": "Biology",
+    "topic": "Cell & Structure",
+    "question": "১২. DNA থেকে RNA তৈরির প্রক্রিয়াকে কী বলে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "রেপ্লিকেশন",
+      "b": "ট্রান্সক্রিপশন",
+      "c": "ট্রান্সলেশন",
+      "d": "মিউটেশন"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "subject": "Biology",
+    "topic": "Microbes",
+    "question": "১৩. নিচের কোনটি ভাইরাসজনিত রোগ নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ডেঙ্গু",
+      "b": "কলেরা",
+      "c": "হাম",
+      "d": "ইনফ্লুয়েঞ্জা"
+    },
+    "correctAnswer": "b",
+    "explanation": "কলেরা একটি ব্যাকটেরিয়াজনিত রোগ (Vibrio cholerae দ্বারা হয়)। বাকিগুলো ভাইরাস দ্বারা সৃষ্টি হয়।"
+  },
+  {
+    "id": 14,
+    "subject": "Biology",
+    "topic": "Animal Diversity",
+    "question": "১৪. হাইড্রার নিডোসাইট কোষে কোন বিষাক্ত তরল থাকে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "হিপনোটক্সিন",
+      "b": "সেরোটোনিন",
+      "c": "হিস্টামিন",
+      "d": "ভেসোপ্রেসিন"
+    },
+    "correctAnswer": "a",
+    "explanation": "হাইড্রার নেমাটোসিস্টের ক্যাপসুলে হিপনোটক্সিন নামক বিষাক্ত তরল থাকে যা আমিষ ও ফেনল দ্বারা গঠিত।"
+  },
+  {
+    "id": 15,
+    "subject": "Biology",
+    "topic": "Genetics",
+    "question": "১৫. মেন্ডেলের ২য় সূত্রকে কী বলা হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "পৃথকীকরণ সূত্র",
+      "b": "স্বাধীনভাবে মিলনের সূত্র",
+      "c": "প্রকটতার সূত্র",
+      "d": "লিংকেজ সূত্র"
+    },
+    "correctAnswer": "b",
+    "explanation": "মেন্ডেলের ২য় সূত্রটি 'স্বাধীনভাবে মিলনের সূত্র' (Law of Independent Assortment) নামে পরিচিত। ১ম সূত্রটি হলো পৃথকীকরণ সূত্র।"
+  },
+  {
+    "id": 16,
+    "subject": "Biology",
+    "topic": "Tissues",
+    "question": "১৬. কোনটি পেশি টিস্যুর বৈশিষ্ট্য নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সংকোচনশীলতা",
+      "b": "উত্তেজনা",
+      "c": "শাখা-প্রশাখা যুক্ত (হৃদপেশি)",
+      "d": "ক্যালসিয়াম কার্বনেট জমা হওয়া"
+    },
+    "correctAnswer": "d",
+    "explanation": "পেশি টিস্যু সংকুচিত ও প্রসারিত হতে পারে। ক্যালসিয়াম কার্বনেট জমা হওয়া হাড় বা খোলসের বৈশিষ্ট্য, পেশির নয়।"
+  },
+  {
+    "id": 17,
+    "subject": "Biology",
+    "topic": "Tissues",
+    "question": "১৭. ফ্লোয়েম টিস্যুর মৃত কোষ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "সিভনল",
+      "b": "সঙ্গীকোষ",
+      "c": "ফ্লোয়েম প্যারেনকাইমা",
+      "d": "ফ্লোয়েম ফাইবার"
+    },
+    "correctAnswer": "d",
+    "explanation": "ফ্লোয়েম টিস্যুর উপাদানগুলোর মধ্যে একমাত্র ফ্লোয়েম ফাইবার বা বাস্ট ফাইবার মৃত (স্ক্লেরেনকাইমা কোষ দ্বারা গঠিত)। বাকি সব সজীব।"
+  },
+  {
+    "id": 18,
+    "subject": "Biology",
+    "topic": "Plant Physiology",
+    "question": "১৮. গ্লাইকোলাইসিস প্রক্রিয়ায় এক অণু গ্লুকোজ ভেঙে কয় অণু পাইরুভিক এসিড তৈরি হয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "১",
+      "b": "২",
+      "c": "৪",
+      "d": "৩৬"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+
+
+  },
+  {
+    "id": 19,
+    "subject": "Biology",
+    "topic": "Digestion",
+    "question": "১৯. কোনটি মিশ্র গ্রন্থি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "যকৃৎ",
+      "b": "অগ্ন্যাশয়",
+      "c": "লালাগ্রন্থি",
+      "d": "ম্যামারি গ্রন্থি"
+    },
+    "correctAnswer": "b",
+    "explanation": "অগ্ন্যাশয় একই সাথে এনজাইম (বহিঃক্ষরা) এবং হরমোন (অন্তঃক্ষরা) নিঃসরণ করে বলে একে মিশ্র গ্রন্থি বলা হয়।"
+  },
+  {
+    "id": 20,
+    "subject": "Biology",
+    "topic": "Movement",
+    "question": "২০. মানব কঙ্কালতন্ত্রে মোট অস্থির সংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২০৬",
+      "b": "৩০৬",
+      "c": "২০৮",
+      "d": "২০০"
+    },
+    "correctAnswer": "a",
+    "explanation": "একজন পূর্ণবয়স্ক মানুষের শরীরে মোট ২০৬টি হাড় বা অস্থি থাকে (অক্ষীয় ৮০টি ও উপাঙ্গীয় ১২৬টি)।"
+  },
+  {
+    "id": 21,
+    "subject": "Biology",
+    "topic": "Blood & Circulation",
+    "question": "২১. ABO রক্ত গ্রুপের আবিষ্কারক কে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "লুই পাস্তুর",
+      "b": "কার্ল ল্যান্ডস্টেইনার",
+      "c": "উইলিয়াম হার্ভে",
+      "d": "গ্রেগর জোহান মেন্ডেল"
+    },
+    "correctAnswer": "b",
+    "explanation": "কার্ল ল্যান্ডস্টেইনার ১৯০১ সালে মানুষের রক্তের ABO গ্রুপ আবিষ্কার করেন।"
+  },
+  {
+    "id": 22,
+    "subject": "Biology",
+    "topic": "Plant Physiology",
+    "question": "২২. শালোকসংশ্লেষণে নির্গত অক্সিজেনের উৎস কী?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$CO_2$$",
+      "b": "$$H_2O$$",
+      "c": "$$C_6H_{12}O_6$$",
+      "d": "ক্লোরোফিল"
+    },
+    "correctAnswer": "b",
+    "explanation": "শালোকসংশ্লেষণ প্রক্রিয়ায় পানি ($$H_2O$$) ভেঙে (ফোটোলাইসিস) অক্সিজেন নির্গত হয়। $$CO_2$$ বিজারিত হয়ে গ্লুকোজ তৈরি করে।"
+  },
+  {
+    "id": 23,
+    "subject": "Biology",
+    "topic": "Microbes",
+    "question": "২৩. নিচের কোনটি জীব ও জড়ের সেতুবন্ধন?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ব্যাকটেরিয়া",
+      "b": "শৈবাল",
+      "c": "ভাইরাস",
+      "d": "ছত্রাক"
+    },
+    "correctAnswer": "c",
+    "explanation": "ভাইরাস পোষক দেহের ভেতরে জীব এবং বাইরে জড় পদার্থের ন্যায় আচরণ করে, তাই একে জীব ও জড়ের সেতুবন্ধন বলা হয়।"
+  },
+  {
+    "id": 24,
+    "subject": "Biology",
+    "topic": "Cell Division",
+    "question": "২৪. ক্রসিং ওভার কোন উপপর্যায়ে ঘটে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "লেপ্টোটিন",
+      "b": "জাইগোটিন",
+      "c": "প্যাকাইটিন",
+      "d": "ডিপ্লোটিন"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n মায়োসিস-১ এর প্রোফেজ-১ এর প্যাকাইটিন উপপর্যায়ে হোমোলগাস ক্রোমোজোমের নন-সিস্টার ক্রোমাটিডের মধ্যে অংশের বিনিময় বা ক্রসিং ওভার ঘটে।"
+  },
+  {
+    "id": 25,
+    "subject": "Biology",
+    "topic": "Cell & Structure",
+    "question": "২৫. কোনটি আদিকোষী জীব?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "মানুষ",
+      "b": "আমগাছ",
+      "c": "ব্যাকটেরিয়া",
+      "d": "অ্যামিবা"
+    },
+    "correctAnswer": "c",
+    "explanation": "ব্যাকটেরিয়ার কোষে সুগঠিত নিউক্লিয়াস ও পর্দাবৃত অঙ্গাণু থাকে না, তাই এটি আদিকোষী বা প্রোক্যারিওটিক জীব।"
+  }
+]

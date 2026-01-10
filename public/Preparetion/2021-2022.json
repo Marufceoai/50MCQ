@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "subject": "Chemistry",
+    "topic": "Gaseous State",
+    "question": "২৫. গ্যাসের অণুর গড় মুক্তপথ ঘনত্বের—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বর্গের সমানুপাতিক",
+      "b": "সমানুপাতিক",
+      "c": "ব্যাস্তানুপাতিক",
+      "d": "বর্গমূলের ব্যাস্তানুপাতিক"
+    },
+    "correctAnswer": "c",
+    "explanation": "গ্যাসের অণুর গড় মুক্তপথ ঘনত্বের ব্যাস্তানুপাতিক (λ ∝ 1/ρ)।"
+  },
+  {
+    "id": 2,
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "২৬. 2N2O5 ⇌ 4NO2 + O2 বিক্রিয়ায় Kp ও Kc এর সম্পর্ক হল—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Kp = Kc(RT)^-2",
+      "b": "Kp = Kc(RT)^-3",
+      "c": "Kp = Kc",
+      "d": "Kp = Kc(RT)^3"
+    },
+    "correctAnswer": "d",
+    "explanation": "Δn = (4+1) - 2 = 3। সুতরাং Kp = Kc(RT)^3।"
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২৭. নিচের কোনটি সঠিক নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "অ্যালডিহাইড টলেন বিকারক পরীক্ষা দেয়",
+      "b": "অ্যালডিহাইড ও কিটোন আয়াডোফর্ম পরীক্ষা দেয়",
+      "c": "কিটোন ফেলিং দ্রবণ পরীক্ষা দেয়",
+      "d": "অ্যালডিহাইড ও কিটোন ফিনাইল হাইড্রাজেনের সাথে বিক্রিয়া করে"
+    },
+    "correctAnswer": "c",
+    "explanation": "কিটোন ফেলিং দ্রবণ পরীক্ষা দেয় না; এটি কেবল অ্যালডিহাইড শনাক্তকরণে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 4,
+    "subject": "Chemistry",
+    "topic": "Gaseous State",
+    "question": "২৮. যদি 3 L আয়তনের কোনো গ্যাসের চাপ ও পরম তাপমাত্রা দ্বিগুণ করা হয়, তাহলে তার আয়তন কত L হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2",
+      "b": "3",
+      "c": "6",
+      "d": "12"
+    },
+    "correctAnswer": "b",
+    "explanation": "P1V1/T1 = P2V2/T2 সূত্রানুসারে, P এবং T উভয়ই দ্বিগুণ করলে V অপরিবর্তিত থাকে।"
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২৯. C-OH কোন ধরনের মূলক?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "অ্যালডিহাইড মূলক",
+      "b": "কার্বনিল মূলক",
+      "c": "৩° অ্যালকোহল",
+      "d": "অ্যালকোহল"
+    },
+    "correctAnswer": "d",
+    "explanation": "C-OH কার্বিনল বা অ্যালকোহল মূলক নির্দেশ করে।"
+  },
+  {
+    "id": 6,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩১. 0.1 M HCl, 0.25 M H2SO4 এবং 0.35 M Mg(OH)2 সমপরিমাণে মিশ্রিত করলে মিশ্রণের pH কত হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0",
+      "b": "13",
+      "c": "14",
+      "d": "7"
+    },
+    "correctAnswer": "b",
+    "explanation": "হিসাব অনুযায়ী মিশ্রণটি ক্ষারীয় হয় এবং pOH প্রায় ১ হওয়ায় pH এর মান ১৩ এর কাছাকাছি থাকে।"
+  },
+  {
+    "id": 7,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩২. 1 mg/L = কত ppm?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1",
+      "b": "10",
+      "c": "10^3",
+      "d": "10^6"
+    },
+    "correctAnswer": "a",
+    "explanation": "পিপিএম (ppm) এর একক সংজ্ঞানুযায়ী 1 mg/L = 1 ppm।"
+  },
+  {
+    "id": 8,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩৩. 0.1 N HCl এবং 0.1 N H2SO4 দ্রবণের মোলারিটি যথাক্রমে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0.1 ও 0.1",
+      "b": "0.1 ও 0.05",
+      "c": "0.5 ও 0.1",
+      "d": "0.1 ও 0.2"
+    },
+    "correctAnswer": "b",
+    "explanation": "HCl এর ক্ষেত্রে N=M; H2SO4 এর ক্ষেত্রে N=2M, তাই M=0.1/2 = 0.05।"
+  },
+  {
+    "id": 9,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "৩৪. কলয়েড এর ক্ষেত্রে অদ্রবণীয় পদার্থের কণাগুলোর আকার হয়—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2 ~ 500 nm",
+      "b": "50 ~ 1000 nm",
+      "c": "> 1000 nm",
+      "d": "< 1000 nm"
+    },
+    "correctAnswer": "b",
+    "explanation": "কলয়েড কণার আকার সাধারণত ১ ন্যানোমিটার থেকে ১০০০ ন্যানোমিটারের মধ্যে হয়।"
+  },
+  {
+    "id": 10,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩৫. 12 M HCl এসিডের 300 mL জলীয় দ্রবণে কত মোল HCl থাকে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "36",
+      "b": "360",
+      "c": "3.6",
+      "d": "36.5"
+    },
+    "correctAnswer": "c",
+    "explanation": "n = MV = 12 * 0.3 = 3.6 মোল।"
+  },
+  {
+    "id": 11,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩৯. প্রমাণ অবস্থায় 1 kg CaCO3 লঘু HCl এ দ্রবীভূত করলে কত L CO2 গ্যাস পাওয়া যায়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "22.4",
+      "b": "224",
+      "c": "10",
+      "d": "2240"
+    },
+    "correctAnswer": "b",
+    "explanation": "১০০ গ্রাম CaCO3 থেকে ২২.৪ লিটার CO2 পাওয়া যায়, ১০০০ গ্রাম থেকে পাওয়া যাবে ২২৪ লিটার।"
+  },
+  {
+    "id": 12,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৪৫. স্যান্ডমেয়ার বিক্রিয়ার প্রধান উৎপাদ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "C2H5Br",
+      "b": "C6H5Br",
+      "c": "C2H5OH",
+      "d": "C6H5CH3"
+    },
+    "correctAnswer": "b",
+    "explanation": "স্যান্ডমেয়ার বিক্রিয়ার মাধ্যমে অ্যারোমেটিক ডায়াজোনিয়াম লবণ থেকে হ্যালোবেনজিন (যেমন: ব্রোমোবেনজিন) তৈরি হয়।"
+  },
+  {
+    "id": 13,
+    "subject": "Chemistry",
+    "topic": "Gaseous State",
+    "question": "২৬. সমআয়তন পাত্রে নিচের কোন গ্যাসটির আংশিক চাপ সর্বাধিক?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2 g H2",
+      "b": "8 g He",
+      "c": "32 g O2",
+      "d": "17 g NH3"
+    },
+    "correctAnswer": "b",
+    "explanation": "যেখানে মোল সংখ্যা বেশি, সেখানে আংশিক চাপ বেশি। He এর মোল সংখ্যা (৮/৪ = ২) এখানে সর্বাধিক।"
+  },
+  {
+    "id": 14,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২৭. প্রোপিন বেয়ার পরীক্ষায় কী উৎপন্ন করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ইথিলিন গ্লাইকল",
+      "b": "ইথেন ডাইওল",
+      "c": "প্রোপেন-১,২-ডাইওল",
+      "d": "সরবিটল"
+    },
+    "correctAnswer": "c",
+    "explanation": "বেয়ার পরীক্ষায় ক্ষারীয় KMnO4 দ্বারা প্রোপিন জারিত হয়ে প্রোপেন-১,২-ডাইওল উৎপন্ন করে।"
+  },
+  {
+    "id": 15,
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "৩০. নির্দিষ্ট তাপমাত্রায় নিচের কোন সাম্য বিক্রিয়ায় চাপের প্রভাব নেই?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "2PbS(s) + 3O2(g) = 2PbO(s) + 2SO2(g)",
+      "b": "PCl5(g) ⇌ PCl3(g) + Cl2(g)",
+      "c": "H2(g) + CO2(g) ⇌ H2O(g) + CO(g)",
+      "d": "N2(g) + 3H2(g) ⇌ 2NH3(g)"
+    },
+    "correctAnswer": "c",
+    "explanation": "উভয় পাশে গ্যাসীয় অণুর সংখ্যা সমান (Δn=0) হলে চাপের কোনো প্রভাব থাকে না।"
+  },
+  {
+    "id": 16,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "৩২. Fe3+ আয়নের ইলেকট্রন বিন্যাসে অযুগ্ম ইলেকট্রনের সংখ্যা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "5",
+      "b": "4",
+      "c": "3",
+      "d": "2"
+    },
+    "correctAnswer": "a",
+    "explanation": "Fe3+ এর বিন্যাস হল [Ar] 3d5, যেখানে d-উপস্তরে ৫টি অযুগ্ম ইলেকট্রন থাকে।"
+  },
+  {
+    "id": 17,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৩৭. 200 mM HCl দ্রবণের pH কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0.1",
+      "b": "2",
+      "c": "0.69",
+      "d": "3.0"
+    },
+    "correctAnswer": "c",
+    "explanation": "pH = -log[H+] = -log(0.2) = 0.698।"
+  },
+  {
+    "id": 18,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "৪০. sp3d2 সংকরন বিশিষ্ট যৌগ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "XeF4",
+      "b": "SF6",
+      "c": "IF7",
+      "d": "সবগুলো"
+    },
+    "correctAnswer": "b",
+    "explanation": "SF6 অণুতে কেন্দ্রীয় সালফার পরমাণু sp3d2 সংকরিত অবস্থায় থাকে।"
+  },
+  {
+    "id": 19,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "৪৪. 1 L ডেসিমোলার Na2CO3 দ্রবণে কত g Na2CO3 থাকবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "5.3",
+      "b": "10.6",
+      "c": "16.6",
+      "d": "53.6"
+    },
+    "correctAnswer": "b",
+    "explanation": "ডেসিমোলার মানে ০.১ মোলার। ভর = M * V * Mw = 0.1 * 1 * 106 = 10.6 গ্রাম।"
+  },
+  {
+    "id": 20,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "৫০. ১-বিউটিন ৩-আইন এ সিগমা ও পাই বন্ধনের সংখ্যা যথাক্রমে—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৫ ও ৫",
+      "b": "৭ ও ৩",
+      "c": "৪ ও ৩",
+      "d": "৬ ও ৪"
+    },
+    "correctAnswer": "b",
+    "explanation": "CH2=CH-C≡CH অণুতে ৭টি সিগমা (σ) এবং ৩টি পাই (π) বন্ধন বিদ্যমান।"
+  }
+]

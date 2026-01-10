@@ -1,0 +1,323 @@
+
+[
+  {
+    "id": 1,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০১. নিচের কোনটি জ্যামিতিক সমানুতা প্রদর্শন করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ClCH=CHCl",
+      "b": "CH2=CHCl",
+      "c": "CH2=CH2",
+      "d": "Cl2C=CH2"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০২. ২-প্রোপানল, (CH3)2CHOH এর স্বাভাবিক স্ফুটনাংক কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "45°C",
+      "b": "56°C",
+      "c": "83°C",
+      "d": "100°C"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "০৩. ক্লোরেট (ClO3-) আয়নের লুইস কাঠামোতে ক্লোরিন পরমাণুতে কত জোড়া ইলেকট্রন যুগল রয়েছে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "0",
+      "b": "1",
+      "c": "2",
+      "d": "3"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "০৪. এসিডের তীব্রতা নিচের কোনটির উপর নির্ভরশীল নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "কেন্দ্রীয় পরমাণুর জারণ সংখ্যা",
+      "b": "কেন্দ্রীয় পরমাণুর আকার",
+      "c": "অণুতে উপস্থিত হাইড্রোজেন পরমাণু সংখ্যা",
+      "d": "এসিডের বিয়োজন ধ্রুবক"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "০৫. d অরবিটালের জন্য নিচের কোন তথ্যটি সঠিক নয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "l=2",
+      "b": "m = -2, -1, 0, +1, +2",
+      "c": "অরবিটালের সংখ্যা ১০ টি",
+      "d": "সর্বোচ্চ ইলেকট্রন সংখ্যা ১০ টি"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০৬. অ্যালকোহলের সাথে গ্রিগনার্ড বিকারক (RMgX) এর বিক্রিয়ায় কী উৎপন্ন হয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "কিটোন",
+      "b": "অ্যালডিহাইড",
+      "c": "ইথার",
+      "d": "অ্যালকেন"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "subject": "Chemistry",
+    "topic": "Applied Chemistry",
+    "question": "০৭. খাদ্যদ্রব্য সংরক্ষণের জন্য যে ভিনেগার ব্যবহার করা হয়, তা হলো—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "CH3COOH এর ৬-১০% জলীয় দ্রবণ",
+      "b": "CH3CH2OH এর ১০-১৫% জলীয় দ্রবণ",
+      "c": "C6H5COOH এর ১৫-২০% জলীয় দ্রবণ",
+      "d": "CH3CH2COOH এর ৪-৮% জলীয় দ্রবণ"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "subject": "Chemistry",
+    "topic": "Gaseous State",
+    "question": "০৮. ১৪ গ্রাম N2 গ্যাসের জন্য নিচের কোনটি আদর্শ গ্যাসের সমীকরণ?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "PV=nRT",
+      "b": "PV=RT/2",
+      "c": "PV/2=RT",
+      "d": "PV=RT"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "subject": "Chemistry",
+    "topic": "Qualitative Chemistry",
+    "question": "০৯. একটি সেমিমোলার দ্রবণ থেকে ডেসিমোলার দ্রবণ তৈরিতে দ্রবণের আয়তন কী পরিমাণ বৃদ্ধি করতে হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৫ গুণ",
+      "b": "৪ গুণ",
+      "c": "৯ গুণ",
+      "d": "১০ গুণ"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "১০. নিচের কোন গ্যাসটি অপেক্ষাকৃত নিষ্ক্রিয়?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "O2",
+      "b": "N2",
+      "c": "Cl2",
+      "d": "F2"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "১১. Al3+ আয়নের ইলেকট্রন কনফিগারেশন কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "1s2 2s2 2p6",
+      "b": "1s2 2s2 2p6 3s2 3p1",
+      "c": "1s2 2s2 2p6 3s2 3p4",
+      "d": "1s2 2s2 2p6 3s2 3p6"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১২. CCl4 এ দ্রবীভূত ব্রোমিন দ্রবণকে দ্রুত বর্ণহীন করবে কোন যৌগটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "বেনজিন",
+      "b": "সাইক্লোহেক্সেন",
+      "c": "হেক্সেন",
+      "d": "১-হেক্সিন"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry",
+    "question": "১৩. কোন অবস্থান্তর মৌল পরিবর্তনশীল জারণ অবস্থা প্রদর্শন করে না?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "Cu",
+      "b": "Hg",
+      "c": "Ni",
+      "d": "Zn"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৪. CH3CHO এবং CH3COCH3 এর মধ্যে পার্থক্যসূচক পরীক্ষায় ব্যবহৃত হয়—",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "K2Cr2O7/H+",
+      "b": "২,৪-DNP",
+      "c": "[Ag(NH3)2]+",
+      "d": "PCl3"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "১৫. ক্যাথোডে ১ মোল Cu ধাতু জমা করতে CuSO4 দ্রবণে কত ফ্যারাডে বিদ্যুৎ চালনা করতে হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "4 F",
+      "b": "2 F",
+      "c": "3 F",
+      "d": "1 F"
+    },
+    "correctAnswer": "b",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৬. বেনজিন বলয় সক্রিয়কারী গ্রুপ কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "-CHO",
+      "b": "-COOH",
+      "c": "-NHCH3",
+      "d": "-NO2"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "১৭. ২০% (w/v) NaOH দ্রবণের মোলারিটি কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২ M",
+      "b": "০.২ M",
+      "c": "৪ M",
+      "d": "৫ M"
+    },
+    "correctAnswer": "d",
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৮. C6H5CHO অণুতে আলফা হাইড্রোজেনের সংখ্যা কয়টি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "০ টি",
+      "b": "১ টি",
+      "c": "২ টি",
+      "d": "৩ টি"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "subject": "Chemistry",
+    "topic": "Gaseous State",
+    "question": "১৯. কোন গ্যাসের ব্যাপন হার সবচেয়ে বেশি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ফ্লোরিন",
+      "b": "নিয়ন",
+      "c": "অক্সিজেন",
+      "d": "ক্লোরিন"
+    },
+    "correctAnswer": "a",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "২০. ১০ গ্রাম বিশুদ্ধ CaCO3 সম্পূর্ণরূপে বিয়োজিত হলে STP-তে কী পরিমাণ CO2 গ্যাস পাওয়া যাবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২২.৪ L",
+      "b": "২.৪২ L",
+      "c": "২.২৪ L",
+      "d": "০.২২৪ L"
+    },
+    "correctAnswer": "c",
+    "explanation": ""
+  }
+]

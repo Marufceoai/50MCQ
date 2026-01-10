@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০১. নিচের কোন কার্বোক্যাটায়নটি সবচেয়ে বেশি স্থিতিশীল?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "৩-ডিগ্রি ($$3^\\circ$$)",
+      "b": "২-ডিগ্রি ($$2^\\circ$$)",
+      "c": "১-ডিগ্রি ($$1^\\circ$$)",
+      "d": "মিথাইল কার্বোক্যাটায়ন"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n কার্বোক্যাটায়নের স্থায়িত্বের ক্রম হলো: $$3^\\circ > 2^\\circ > 1^\\circ > CH_3^+$$। এটি হাইপারকনজুগেশন এবং অ্যালকাইল মূলকের ধনাত্মক আবেশিক প্রভাবের ($$+I \\text{ effect}$$) কারণে ঘটে।"
+  },
+  {
+    "id": 2,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "০২. $$0.1 M HCl$$ ও $$0.1 M H_2SO_4$$ এর ১০ মিলি করে মিশ্রিত করলে মিশ্রণের pH কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "১.০",
+      "b": "০.৮২",
+      "c": "১.৩",
+      "d": "০.৫"
+    },
+    "correctAnswer": "b",
+    "explanation": "মোট আয়তন $$= 20 \\text{ mL}$$। $$HCl$$ থেকে $$H^+ = 10 \\times 0.1 = 1 \\text{ mmol}$$। $$H_2SO_4$$ থেকে $$H^+ = 10 \\times 0.1 \\times 2 = 2 \\text{ mmol}$$। মোট $$H^+ = 3 \\text{ mmol}$$। ঘনমাত্রা $$[H^+] = 3/20 = 0.15 M$$। $$pH = -\\log(0.15) \\approx 0.82$$।"
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০৩. হ্যালোফর্ম বিক্রিয়া প্রদর্শন করে না কোনটি?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$CH_3CHO$$",
+      "b": "$$CH_3COCH_3$$",
+      "c": "$$CH_3CH_2OH$$",
+      "d": "$$HCHO$$"
+    },
+    "correctAnswer": "d",
+    "explanation": " \n হ্যালোফর্ম বিক্রিয়া দেওয়ার শর্ত হলো যৌগে $$CH_3-CO-$$ অথবা $$CH_3-CH(OH)-$$ মূলক থাকতে হবে। ফরমালডিহাইড ($$HCHO$$)-এ এই মূলক নেই।"
+  },
+  {
+    "id": 4,
+    "subject": "Chemistry",
+    "topic": "Chemical Equilibrium",
+    "question": "০৪. $$25^\\circ C$$ তাপমাত্রায় $$AgCl$$ এর দ্রাব্যতা গুণফল $$1.8 \\times 10^{-10}$$। $$0.1 M NaCl$$ দ্রবণে এর দ্রাব্যতা কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$1.8 \\times 10^{-9} M$$",
+      "b": "$$1.8 \\times 10^{-5} M$$",
+      "c": "$$1.34 \\times 10^{-5} M$$",
+      "d": "$$1.8 \\times 10^{-11} M$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "সমআয়ন প্রভাবের কারণে $$[Cl^-] = 0.1 M$$। $$K_{sp} = [Ag^+][Cl^-] \\Rightarrow 1.8 \\times 10^{-10} = S \\times 0.1$$। অতএব, $$S = 1.8 \\times 10^{-9} M$$।"
+  },
+  {
+    "id": 5,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০৫. কোনটি ইলেকট্রোফাইল?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$NH_3$$",
+      "b": "$$BF_3$$",
+      "c": "$$H_2O$$",
+      "d": "$$ROH$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "ইলেকট্রোফাইল হলো ইলেকট্রন ঘাটতিযুক্ত বিকারক। $$BF_3$$ তে বোরনের অষ্টক অপূর্ণ থাকায় এটি ইলেকট্রন গ্রহীতা হিসেবে কাজ করে।"
+  },
+  {
+    "id": 6,
+    "subject": "Chemistry",
+    "topic": "Electrochemistry",
+    "question": "০৬. $$CuSO_4$$ দ্রবণের মধ্য দিয়ে ১০ অ্যাম্পিয়ার বিদ্যুৎ ৯৬৫ সেকেন্ড চালনা করলে কী পরিমাণ কপার জমা হবে? (Cu = 63.5)",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৩.১৭৫ গ্রাম",
+      "b": "৬.৩৫ গ্রাম",
+      "c": "১.৫৮ গ্রাম",
+      "d": "৬৩.৫ গ্রাম"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$W = \\frac{MIt}{nF} = \\frac{63.5 \\times 10 \\times 965}{2 \\times 96500} = \\frac{63.5}{20} = 3.175 \\text{ g}$$।"
+  },
+  {
+    "id": 7,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "০৭. ফেনলকে জিঙ্ক চূর্ণসহ পাতন করলে কী উৎপন্ন হয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "টলুইন",
+      "b": "বেনজিন",
+      "c": "জাইলিন",
+      "d": "সাইক্লোহেক্সেন"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n ফেনলকে জিঙ্ক চূর্ণসহ উত্তপ্ত করলে এটি বিজারিত হয়ে বেনজিন এবং জিঙ্ক অক্সাইড ($$ZnO$$) উৎপন্ন করে।"
+  },
+  {
+    "id": 8,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "০৮. কোন অরবিটালের শক্তি সবচেয়ে কম?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$3d$$",
+      "b": "$$4s$$",
+      "c": "$$4p$$",
+      "d": "$$5s$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$(n+l)$$ নীতি অনুযায়ী: $$3d (3+2=5)$$, $$4s (4+0=4)$$, $$4p (4+1=5)$$, $$5s (5+0=5)$$। যেহেতু $$4s$$ এর মান সবচেয়ে কম, তাই এর শক্তিও কম।"
+  },
+  {
+    "id": 9,
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "০৯. নিচের কোনটি উভধর্মী অক্সাইড?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$CO_2$$",
+      "b": "$$CaO$$",
+      "c": "$$ZnO$$",
+      "d": "$$Na_2O$$"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$ZnO$$ এসিড এবং ক্ষার উভয়ের সাথেই বিক্রিয়া করে লবণ ও পানি তৈরি করে, তাই এটি উভধর্মী অক্সাইড।"
+  },
+  {
+    "id": 10,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১০. নিচের বিক্রিয়াটিতে 'A' যৌগটি কী? $R-X + 2Na + X-R \\xrightarrow{\\text{dry ether}} A + 2NaX$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "অ্যালকিন",
+      "b": "অ্যালকাইন",
+      "c": "অ্যালকেন",
+      "d": "ইথার"
+    },
+    "correctAnswer": "c",
+    "explanation": "এটি উটজ ($$\\text{Wurtz}$$) বিক্রিয়া। অ্যালকাইল হ্যালাইড সোডিয়ামের সাথে শুষ্ক ইথারে বিক্রিয়া করে উচ্চতর অ্যালকেন তৈরি করে।"
+  },
+  {
+    "id": 11,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১১. নিচের কোন যৌগটি ফেলিং দ্রবণের সাথে বিক্রিয়া করে লাল অধঃক্ষেপ দেয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "প্রোপানোন",
+      "b": "ইথান্যাল",
+      "c": "ইথানল",
+      "d": "বেঞ্জালডিহাইড"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n ইথান্যাল ($$CH_3CHO$$) ফেলিং দ্রবণকে বিজারিত করে কিউপ্রাস অক্সাইডের ($$Cu_2O$$) লাল অধঃক্ষেপ তৈরি করে।"
+  },
+  {
+    "id": 12,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "১২. $$10\\% (w/v) Na_2CO_3$$ দ্রবণের মোলারিটি কত?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "০.৯৪ M",
+      "b": "১.০ M",
+      "c": "০.৫ M",
+      "d": "১.৫ M"
+    },
+    "correctAnswer": "a",
+    "explanation": "$$S = \\frac{10x}{M} = \\frac{10 \\times 10}{106} \\approx 0.94 M$$।"
+  },
+  {
+    "id": 13,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "১৩. কোনটির বন্ধন কোণ সবচেয়ে কম?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "$$CH_4$$",
+      "b": "$$NH_3$$",
+      "c": "$$H_2O$$",
+      "d": "$$BeCl_2$$"
+    },
+    "correctAnswer": "c",
+    "explanation": " \n পানিতে ২টি মুক্তজোড় ইলেকট্রন থাকায় বিকর্ষণ সবচেয়ে বেশি হয় এবং বন্ধন কোণ কমে $$104.5^\\circ$$ হয়।"
+  },
+  {
+    "id": 14,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৪. নিচের কোনটি পলিমারকরণ বিক্রিয়া দেয় না?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "ইথিন",
+      "b": "প্রোপিন",
+      "c": "ইথেন",
+      "d": "ভিনাইল ক্লোরাইড"
+    },
+    "correctAnswer": "c",
+    "explanation": "পলিমারকরণ বিক্রিয়ার জন্য অসম্পৃক্ত বন্ধন প্রয়োজন। ইথেন একটি সম্পৃক্ত হাইড্রোকার্বন, তাই এটি পলিমার তৈরি করে না।"
+  },
+  {
+    "id": 15,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৫. কোনটি প্রাইমারি অ্যালকোহল?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$CH_3-CH(OH)-CH_3$$",
+      "b": "$$(CH_3)_3C-OH$$",
+      "c": "$$CH_3-CH_2-OH$$",
+      "d": "সাইক্লোহেক্সানল"
+    },
+    "correctAnswer": "c",
+    "explanation": "ইথানল ($$CH_3-CH_2-OH$$) একটি ১-ডিগ্রি বা প্রাইমারি অ্যালকোহল কারণ এর কার্যকরী মূলকযুক্ত কার্বনে ২টি হাইড্রোজেন আছে।"
+  },
+  {
+    "id": 16,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "১৬. $$pH + pOH = ?$$",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "৭",
+      "b": "০",
+      "c": "১৪",
+      "d": "১"
+    },
+    "correctAnswer": "c",
+    "explanation": "$$25^\\circ C$$ তাপমাত্রায় পানির আয়নিক গুণফল $$K_w = 10^{-14}$$। এখান থেকে আমরা পাই $$pH + pOH = 14$$।"
+  },
+  {
+    "id": 17,
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "question": "১৭. $$N_2$$ অণুতে কয়টি পাই ($$\\pi$$) বন্ধন আছে?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "১টি",
+      "b": " ২টি",
+      "c": " ৩টি",
+      "d": " ০টি"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n নাইট্রোজেন অণুতে ($$N \\equiv N$$) একটি ত্রিবন্ধন থাকে যার মধ্যে ১টি সিগমা এবং ২টি পাই বন্ধন থাকে।"
+  },
+  {
+    "id": 18,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "১৮. লুকাস বিকারক কোনটি?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "গাঢ় $$HCl +$$ অনাদ্র $$ZnCl_2$$",
+      "b": "গাঢ় $$HNO_3 +$$ গাঢ় $$H_2SO_4$$",
+      "c": "লঘু $$HCl + ZnCl_2$$",
+      "d": "$$AgNO_3 + NH_4OH$$"
+    },
+    "correctAnswer": "a",
+    "explanation": "গাঢ় হাইড্রোক্লোরিক এসিড ও অনার্দ্র জিংক ক্লোরাইডের মিশ্রণকে লুকাস বিকারক বলা হয় যা অ্যালকোহল শনাক্তকরণে ব্যবহৃত হয়।"
+  },
+  {
+    "id": 19,
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "question": "১৯. নিচের কোনটি রঙিন যৌগ গঠন করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$Zn^{2+}$$",
+      "b": "$$Sc^{3+}$$",
+      "c": "$$Cu^+$$",
+      "d": "$$Fe^{2+}$$"
+    },
+    "correctAnswer": "d",
+    "explanation": "অবস্থান্তর মৌলের আয়নে যদি অপূর্ণ $$d$$-অরবিটাল ($$d^1$$ থেকে $$d^9$$) থাকে তবে তা রঙিন হয়। $$Fe^{2+}$$ এর বিন্যাস হলো $$3d^6$$।"
+  },
+  {
+    "id": 20,
+    "subject": "Chemistry",
+    "topic": "Quantitative Chemistry",
+    "question": "২০. ১০ গ্রাম চুনাপাথর ($$CaCO_3$$) কে উত্তপ্ত করলে STP-তে কত লিটার $$CO_2$$ পাওয়া যাবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "২২.৪ লিটার",
+      "b": "২.২৪ লিটার",
+      "c": "১.১২ লিটার",
+      "d": "৪.৪৮ লিটার"
+    },
+    "correctAnswer": "b",
+    "explanation": "$$100 \\text{ g } CaCO_3$$ থেকে পাওয়া যায় $$22.4 \\text{ L } CO_2$$। অতএব $$10 \\text{ g}$$ থেকে পাওয়া যাবে $$2.24 \\text{ L}$$।"
+  },
+  {
+    "id": 21,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২১. $$S_N1$$ বিক্রিয়া কয় ধাপে সম্পন্ন হয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "১ ধাপে",
+      "b": "২ ধাপে",
+      "c": "৩ ধাপে",
+      "d": "০ ধাপে"
+    },
+    "correctAnswer": "b",
+    "explanation": " \n $$S_N1$$ বিক্রিয়া ২ ধাপে ঘটে। ১ম ধাপে কার্বোক্যাটায়ন তৈরি হয় এবং ২য় ধাপে নিউক্লিওফাইল যুক্ত হয়।"
+  },
+  {
+    "id": 22,
+    "subject": "Chemistry",
+    "topic": "Redox Reaction",
+    "question": "২২. নিচের কোনটি জারক ও বিজারক উভয় হিসেবে কাজ করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$KMnO_4$$",
+      "b": "$$K_2Cr_2O_7$$",
+      "c": "$$H_2S$$",
+      "d": "$$H_2O_2$$"
+    },
+    "correctAnswer": "d",
+    "explanation": "হাইড্রোজেন পারঅক্সাইডে অক্সিজেনের জারণ সংখ্যা $$-1$$। এটি জারিত হয়ে $$0$$ বা বিজারিত হয়ে $$-2$$ হতে পারে, তাই এটি উভয় হিসেবে কাজ করে।"
+  },
+  {
+    "id": 23,
+    "subject": "Chemistry",
+    "topic": "Organic Chemistry",
+    "question": "২৩. $$CH_3-C \\equiv CH$$ যৌগটি নিচের কোনটির সাথে বিক্রিয়া করে সাদা অধঃক্ষেপ দেয়?",
+    "hasDiagram": true,
+    "svg_code": "",
+    "options": {
+      "a": "টলেন বিকারক",
+      "b": "ব্রোমিন দ্রবণ",
+      "c": "কস্টিক সোডা",
+      "d": "পটাশিয়াম পারম্যাঙ্গানেট"
+    },
+    "correctAnswer": "a",
+    "explanation": " \n প্রোপাইন একটি অম্লধর্মী অ্যালকাইন। এটি টলেন বিকারকের সাথে বিক্রিয়া করে সিলভার অ্যাসিটালাইডের সাদা অধঃক্ষেপ দেয়।"
+  },
+  {
+    "id": 24,
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "question": "২৪. কোন কোয়ান্টাম সংখ্যাটি অরবিটালের আকৃতি নির্দেশ করে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "$$n$$",
+      "b": "$$l$$",
+      "c": "$$m$$",
+      "d": "$$s$$"
+    },
+    "correctAnswer": "b",
+    "explanation": "সহকারী কোয়ান্টাম সংখ্যা ($$l$$) অরবিটালের আকৃতি নির্দেশ করে। যেমন: $$l=0$$ হলে গোলাকার ($$s$$)।"
+  },
+  {
+    "id": 25,
+    "subject": "Chemistry",
+    "topic": "Inorganic Chemistry",
+    "question": "২৫. $$Al_2(SO_4)_3$$ লবণের জলীয় দ্রবণ কেমন হবে?",
+    "hasDiagram": false,
+    "svg_code": "",
+    "options": {
+      "a": "অম্লীয়",
+      "b": "ক্ষারীয়",
+      "c": "নিরপেক্ষ",
+      "d": "উভয়ধর্মী"
+    },
+    "correctAnswer": "a",
+    "explanation": "এটি দুর্বল ক্ষার ও সবল এসিডের লবণ। আর্দ্রবিশ্লেষণে সবল এসিডের প্রভাব বজায় থাকে বলে দ্রবণ অম্লীয় হয়।"
+  }
+]
