@@ -26,7 +26,7 @@ export default async function handler(req, res) {
             }
         } else {
             // On Vercel - use GitHub API to dynamically list all files
-            const GITHUB_REPO = `${process.env.GITHUB_OWNER}/${process.env.GITHUB_REPO}`
+            const GITHUB_REPO = 'maruf7705/25MCQ'
             const GITHUB_TOKEN = process.env.GITHUB_TOKEN
             const githubUrl = `https://api.github.com/repos/${GITHUB_REPO}/contents/public`
 

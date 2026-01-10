@@ -5,12 +5,11 @@ import AchievementBadge from './AchievementBadge'
 import PerformanceChart from './PerformanceChart'
 import './ResultSummary.css'
 
-function ResultSummary({ questions, answers, studentName, score, onRestart, questionFile, submissionStatus, passMark = 16.5, totalMarks }) {
+function ResultSummary({ questions, answers, studentName, score, onRestart, questionFile, submissionStatus }) {
   const { score: totalScore, correct, wrong, attempted, total } = score
   const accuracy = attempted > 0 ? ((correct / attempted) * 100).toFixed(1) : 0
   const unanswered = total - attempted
-  const pass = totalScore >= passMark
-  const calculatedTotalMarks = totalMarks || (total * 1.25) // Fallback if not passed
+  const pass = totalScore >= 16.5
 
   // Initialize expanded questions with wrong answers
   const [expandedQuestions, setExpandedQuestions] = useState(() => {
@@ -123,13 +122,13 @@ function ResultSummary({ questions, answers, studentName, score, onRestart, ques
                   cy="100"
                   r="85"
                   style={{
-                    strokeDasharray: `${Math.max(0, Math.min((totalScore / calculatedTotalMarks) * 534, 534))} 534`
+                    strokeDasharray: `${(totalScore / total) * 534} 534`
                   }}
                 />
               </svg>
               <div className="score-content">
                 <div className="score-value">{totalScore.toFixed(2)}</div>
-                <div className="score-label bengali">মোট: {calculatedTotalMarks}</div>
+                <div className="score-label bengali">মোট: {total}</div>
               </div>
             </div>
             <div className={`status-badge ${pass ? 'pass' : 'fail'}`}>

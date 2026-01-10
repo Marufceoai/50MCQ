@@ -83,13 +83,8 @@
 
 .questions-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
+  grid-template-columns: repeat(10, 1fr);
   gap: var(--spacing-2);
-  /* Ensure it doesn't grow too tall on large screens if not needed, but allow wrapping */
-  max-height: 80vh;
-  overflow-y: auto;
-  padding-right: 4px;
-  /* Space for scrollbar */
 }
 
 .question-bubble {
@@ -140,7 +135,8 @@
 }
 
 .question-bubble.active {
-  box-shadow: 0 0 0 2px white, 0 0 0 4px var(--primary);
+  ring: 2px solid var(--primary);
+  ring-offset: 2px;
   z-index: 1;
 }
 
@@ -165,8 +161,8 @@
 
   .questions-grid {
     /* Auto-fill ensures it fits any screen width without overflow */
-    grid-template-columns: repeat(auto-fill, minmax(36px, 1fr));
-    gap: var(--spacing-1-5);
+    grid-template-columns: repeat(auto-fill, minmax(32px, 1fr));
+    gap: var(--spacing-1);
   }
 
   .question-bubble {

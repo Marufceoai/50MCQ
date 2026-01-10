@@ -1,10 +1,8 @@
 import { useState } from 'react'
 import './StartScreen.css'
 
-function StartScreen({ onStart, totalQuestions = 25, duration = 18 * 60, totalMarks = 31.25, passMark = 16.5 }) {
+function StartScreen({ onStart }) {
   const [name, setName] = useState('')
-
-  const durationMinutes = Math.ceil(duration / 60)
 
   function handleSubmit(e) {
     e.preventDefault()
@@ -16,10 +14,10 @@ function StartScreen({ onStart, totalQuestions = 25, duration = 18 * 60, totalMa
   return (
     <div className="start-screen">
       <div className="start-card">
-        <h1 className="bengali">{totalQuestions} MCQ Exam</h1>
+        <h1 className="bengali">25 MCQ Exam</h1>
         <div className="exam-info">
-          <p className="bengali">সময়: {durationMinutes} মিনিট | মোট নম্বর: {totalMarks} | প্রশ্ন: {totalQuestions}</p>
-          <p className="bengali">সঠিক: +১.২৫ | ভুল: -০.২৫ | পাস মার্ক: {passMark}</p>
+          <p className="bengali">সময়: ১৮ মিনিট | মোট নম্বর: ৩১.২৫ | প্রশ্ন: ২৫</p>
+          <p className="bengali">সঠিক: +১.২৫ | ভুল: -০.২৫ | পাস মার্ক: ১৬.৫</p>
         </div>
         <form onSubmit={handleSubmit}>
           <label htmlFor="student-name" className="bengali">নাম / আইডি</label>

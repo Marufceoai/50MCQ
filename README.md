@@ -1,6 +1,7 @@
-# 25 MCQ Exam System
+# 50 MCQ Exam System
 
 Single-page MCQ exam (student) + admin dashboard. Questions/answers stored in GitHub JSON; submissions appended via Vercel serverless API.
+Now supports 50 questions!
 
 ## Screenshots
 
@@ -18,8 +19,8 @@ Single-page MCQ exam (student) + admin dashboard. Questions/answers stored in Gi
 
 ## Features
 - Student starts exam with name/ID (no password)
-- 18 min timer, 25 MCQ
-- Scoring: +1.25 correct, -0.25 wrong, 0 unanswered; Pass ≥ 16.5
+- 40 min timer, 50 MCQ
+- Scoring: +1.25 correct, -0.25 wrong, 0 unanswered; Pass ≥ 33.0
 - LocalStorage autosave during exam
 - Submit saves to GitHub `answers.json`
 - Admin page lists scores, pass/fail, timestamp, and detailed answers
@@ -27,7 +28,7 @@ Single-page MCQ exam (student) + admin dashboard. Questions/answers stored in Gi
 ## Files
 - `index.html` / `exam.js` / `styles.css` — student exam UI
 - `admin.html` / `admin.js` — admin dashboard
-- `questions.json` — 25 questions in Bengali (Physics, Chemistry, Math)
+- `questions.json` — 50 questions in Bengali (Physics, Chemistry, Math)
 - `answers.json` — submissions store (appended by API)
 - `api/save-answer.js` — Vercel function writing to GitHub
 
@@ -51,7 +52,7 @@ GITHUB_TOKEN=<PAT with repo scope>
 4) Deploy. Student page: `/`. Admin page: `/admin.html`.
 
 ## GitHub JSON notes
-- `questions.json`: contains 25 questions in Bengali covering multiple science topics.
+- `questions.json`: contains 50 questions in Bengali covering multiple science topics.
 - `answers.json`: should start as `[]`. API appends each submission.
 
 ## API details
