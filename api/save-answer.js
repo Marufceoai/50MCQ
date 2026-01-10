@@ -2,8 +2,8 @@ import { Buffer } from "buffer";
 import fs from "fs/promises";
 import path from "path";
 
-const OWNER = process.env.GITHUB_OWNER;
-const REPO = process.env.GITHUB_REPO;
+const OWNER = 'maruf7705';
+const REPO = '50MCQ';
 const BRANCH = process.env.GITHUB_BRANCH || "main";
 const TOKEN = process.env.GITHUB_TOKEN;
 const FILE_PATH = "answers.json";
